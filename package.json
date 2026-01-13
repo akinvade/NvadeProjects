@@ -1,0 +1,13 @@
+{
+  "name": "nvadeprojects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "Akash Khuntia",
+  "license": "ISC",
+  "type": "commonjs"
+}
