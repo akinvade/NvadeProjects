@@ -1,0 +1,36 @@
+{
+    "Name": "Comoros",
+    "Capital": "Moroni",
+    "States": {
+        "Anjouan": {
+            "Code": "A"
+        },
+        "Grande Comore": {
+            "Code": "G"
+        },
+        "Mohéli": {
+            "Code": "M"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "KM",
+        "Code2": "COM"
+    },
+    "Region": "Africa",
+    "Sub Region": "Eastern Africa",
+    "Currency": {
+        "Code": "KMF",
+        "Name": "Comorian franc",
+        "Symbol": "Fr"
+    },
+    "Languages": {
+        "Code": "fr",
+        "Native Name": "French"
+    },
+    "Dialing Code": "+269",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/com.svg"
+}

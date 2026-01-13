@@ -1,0 +1,56 @@
+{
+    "Name": "Bolivia",
+    "Capital": "Sucre",
+    "States": {
+        "Chuquisaca": {
+            "Code": "H"
+        },
+        "Cochabamba": {
+            "Code": "C"
+        },
+        "El Beni": {
+            "Code": "B"
+        },
+        "La Paz": {
+            "Code": "L"
+        },
+        "Oruro": {
+            "Code": "O"
+        },
+        "Pando": {
+            "Code": "N"
+        },
+        "Potosí": {
+            "Code": "P"
+        },
+        "Santa Cruz": {
+            "Code": "S"
+        },
+        "Tarija": {
+            "Code": "T"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "BO",
+        "Code2": "BOL"
+    },
+    "Region": "Americas",
+    "Sub Region": "South America",
+    "Currency": {
+        "Code": "",
+        "Name": "",
+        "Symbol": ""
+    },
+    "Languages": {
+        "Code": "",
+        "Native Name": "",
+        "Name": "",
+        "ISO": ""
+    },
+    "Dialing Code": "+591",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": ""
+}

@@ -1,0 +1,126 @@
+{
+    "Name": "Colombia",
+    "Capital": "Bogotá",
+    "States": {
+        "Amazonas": {
+            "Code": "AMA"
+        },
+        "Antioquia": {
+            "Code": "ANT"
+        },
+        "Arauca": {
+            "Code": "ARA"
+        },
+        "Atlántico": {
+            "Code": "ATL"
+        },
+        "Bolívar": {
+            "Code": "BOL"
+        },
+        "Boyacá": {
+            "Code": "BOY"
+        },
+        "Caldas": {
+            "Code": "CAL"
+        },
+        "Caquetá": {
+            "Code": "CAQ"
+        },
+        "Casanare": {
+            "Code": "CAS"
+        },
+        "Cauca": {
+            "Code": "CAU"
+        },
+        "Cesar": {
+            "Code": "CES"
+        },
+        "Chocó": {
+            "Code": "CHO"
+        },
+        "Cundinamarca": {
+            "Code": "CUN"
+        },
+        "Córdoba": {
+            "Code": "COR"
+        },
+        "Distrito Capital de Bogotá": {
+            "Code": "DC"
+        },
+        "Guainía": {
+            "Code": "GUA"
+        },
+        "Guaviare": {
+            "Code": "GUV"
+        },
+        "Huila": {
+            "Code": "HUI"
+        },
+        "La Guajira": {
+            "Code": "LAG"
+        },
+        "Magdalena": {
+            "Code": "MAG"
+        },
+        "Meta": {
+            "Code": "MET"
+        },
+        "Nariño": {
+            "Code": "NAR"
+        },
+        "Norte de Santander": {
+            "Code": "NSA"
+        },
+        "Putumayo": {
+            "Code": "PUT"
+        },
+        "Quindío": {
+            "Code": "QUI"
+        },
+        "Risaralda": {
+            "Code": "RIS"
+        },
+        "San Andrés, Providencia y Santa Catalina": {
+            "Code": "SAP"
+        },
+        "Santander": {
+            "Code": "SAN"
+        },
+        "Sucre": {
+            "Code": "SUC"
+        },
+        "Tolima": {
+            "Code": "TOL"
+        },
+        "Valle del Cauca": {
+            "Code": "VAC"
+        },
+        "Vaupés": {
+            "Code": "VAU"
+        },
+        "Vichada": {
+            "Code": "VID"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "CO",
+        "Code2": "COL"
+    },
+    "Region": "Americas",
+    "Sub Region": "South America",
+    "Currency": {
+        "Code": "COP",
+        "Name": "Colombian peso",
+        "Symbol": "$"
+    },
+    "Languages": {
+        "Code": "es",
+        "Native Name": "Spanish"
+    },
+    "Dialing Code": "+57",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/col.svg"
+}

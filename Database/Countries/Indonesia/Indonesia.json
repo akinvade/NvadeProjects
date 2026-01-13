@@ -1,0 +1,48 @@
+{
+    "Name": "Indonesia",
+    "Capital": "Jakarta",
+    "States": {
+        "Jawa": {
+            "Code": "JW"
+        },
+        "Kalimantan": {
+            "Code": "KA"
+        },
+        "Maluku": {
+            "Code": "ML"
+        },
+        "Nusa Tenggara": {
+            "Code": "NU"
+        },
+        "Papua": {
+            "Code": "PP"
+        },
+        "Sulawesi": {
+            "Code": "SL"
+        },
+        "Sumatera": {
+            "Code": "SM"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "ID",
+        "Code2": "IDN"
+    },
+    "Region": "Asia",
+    "Sub Region": "South-Eastern Asia",
+    "Currency": {
+        "Code": "IDR",
+        "Name": "Indonesian rupiah",
+        "Symbol": "Rp"
+    },
+    "Languages": {
+        "Code": "id",
+        "Native Name": "Indonesian"
+    },
+    "Dialing Code": "+62",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/idn.svg"
+}

@@ -1,0 +1,26 @@
+{
+    "Name": "Faroe Islands",
+    "Capital": "Tórshavn",
+    "States": {},
+    "ShortCodes": {
+        "Code1": "FO",
+        "Code2": "FRO"
+    },
+    "Region": "Europe",
+    "Sub Region": "Northern Europe",
+    "Currency": {
+        "Code": "DKK",
+        "Name": "Danish krone",
+        "Symbol": "kr"
+    },
+    "Languages": {
+        "Code": "fo",
+        "Native Name": "Faroese"
+    },
+    "Dialing Code": "+298",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/fro.svg"
+}

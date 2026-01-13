@@ -1,0 +1,384 @@
+{
+    "Name": "Latvia",
+    "Capital": "Riga",
+    "States": {
+        "Aglonas novads": {
+            "Code": "001"
+        },
+        "Aizkraukles novads": {
+            "Code": "002"
+        },
+        "Aizputes novads": {
+            "Code": "003"
+        },
+        "Aknīstes novads": {
+            "Code": "004"
+        },
+        "Alojas novads": {
+            "Code": "005"
+        },
+        "Alsungas novads": {
+            "Code": "006"
+        },
+        "Alūksnes novads": {
+            "Code": "007"
+        },
+        "Amatas novads": {
+            "Code": "008"
+        },
+        "Apes novads": {
+            "Code": "009"
+        },
+        "Auces novads": {
+            "Code": "010"
+        },
+        "Babītes novads": {
+            "Code": "012"
+        },
+        "Baldones novads": {
+            "Code": "013"
+        },
+        "Baltinavas novads": {
+            "Code": "014"
+        },
+        "Balvu novads": {
+            "Code": "015"
+        },
+        "Bauskas novads": {
+            "Code": "016"
+        },
+        "Beverīnas novads": {
+            "Code": "017"
+        },
+        "Brocēnu novads": {
+            "Code": "018"
+        },
+        "Burtnieku novads": {
+            "Code": "019"
+        },
+        "Carnikavas novads": {
+            "Code": "020"
+        },
+        "Cesvaines novads": {
+            "Code": "021"
+        },
+        "Ciblas novads": {
+            "Code": "023"
+        },
+        "Cēsu novads": {
+            "Code": "022"
+        },
+        "Dagdas novads": {
+            "Code": "024"
+        },
+        "Daugavpils": {
+            "Code": "DGV"
+        },
+        "Daugavpils novads": {
+            "Code": "025"
+        },
+        "Dobeles novads": {
+            "Code": "026"
+        },
+        "Dundagas novads": {
+            "Code": "027"
+        },
+        "Durbes novads": {
+            "Code": "028"
+        },
+        "Engures novads": {
+            "Code": "029"
+        },
+        "Garkalnes novads": {
+            "Code": "031"
+        },
+        "Grobiņas novads": {
+            "Code": "032"
+        },
+        "Gulbenes novads": {
+            "Code": "033"
+        },
+        "Iecavas novads": {
+            "Code": "034"
+        },
+        "Ikšķiles novads": {
+            "Code": "035"
+        },
+        "Ilūkstes novads": {
+            "Code": "036"
+        },
+        "Inčukalna novads": {
+            "Code": "037"
+        },
+        "Jaunjelgavas novads": {
+            "Code": "038"
+        },
+        "Jaunpiebalgas novads": {
+            "Code": "039"
+        },
+        "Jaunpils novads": {
+            "Code": "040"
+        },
+        "Jelgava": {
+            "Code": "JEL"
+        },
+        "Jelgavas novads": {
+            "Code": "041"
+        },
+        "Jēkabpils": {
+            "Code": "JKB"
+        },
+        "Jēkabpils novads": {
+            "Code": "042"
+        },
+        "Jūrmala": {
+            "Code": "JUR"
+        },
+        "Kandavas novads": {
+            "Code": "043"
+        },
+        "Kocēnu novads": {
+            "Code": "045"
+        },
+        "Kokneses novads": {
+            "Code": "046"
+        },
+        "Krimuldas novads": {
+            "Code": "048"
+        },
+        "Krustpils novads": {
+            "Code": "049"
+        },
+        "Krāslavas novads": {
+            "Code": "047"
+        },
+        "Kuldīgas novads": {
+            "Code": "050"
+        },
+        "Kārsavas novads": {
+            "Code": "044"
+        },
+        "Lielvārdes novads": {
+            "Code": "053"
+        },
+        "Liepāja": {
+            "Code": "LPX"
+        },
+        "Limbažu novads": {
+            "Code": "054"
+        },
+        "Lubānas novads": {
+            "Code": "057"
+        },
+        "Ludzas novads": {
+            "Code": "058"
+        },
+        "Līgatnes novads": {
+            "Code": "055"
+        },
+        "Līvānu novads": {
+            "Code": "056"
+        },
+        "Madonas novads": {
+            "Code": "059"
+        },
+        "Mazsalacas novads": {
+            "Code": "060"
+        },
+        "Mālpils novads": {
+            "Code": "061"
+        },
+        "Mārupes novads": {
+            "Code": "062"
+        },
+        "Mērsraga novads": {
+            "Code": "063"
+        },
+        "Naukšēnu novads": {
+            "Code": "064"
+        },
+        "Neretas novads": {
+            "Code": "065"
+        },
+        "Nīcas novads": {
+            "Code": "066"
+        },
+        "Ogres novads": {
+            "Code": "067"
+        },
+        "Olaines novads": {
+            "Code": "068"
+        },
+        "Ozolnieku novads": {
+            "Code": "069"
+        },
+        "Preiļu novads": {
+            "Code": "073"
+        },
+        "Priekules novads": {
+            "Code": "074"
+        },
+        "Priekuļu novads": {
+            "Code": "075"
+        },
+        "Pārgaujas novads": {
+            "Code": "070"
+        },
+        "Pāvilostas novads": {
+            "Code": "071"
+        },
+        "Pļaviņu novads": {
+            "Code": "072"
+        },
+        "Raunas novads": {
+            "Code": "076"
+        },
+        "Riebiņu novads": {
+            "Code": "078"
+        },
+        "Rojas novads": {
+            "Code": "079"
+        },
+        "Ropažu novads": {
+            "Code": "080"
+        },
+        "Rucavas novads": {
+            "Code": "081"
+        },
+        "Rugāju novads": {
+            "Code": "082"
+        },
+        "Rundāles novads": {
+            "Code": "083"
+        },
+        "Rēzekne": {
+            "Code": "REZ"
+        },
+        "Rēzeknes novads": {
+            "Code": "077"
+        },
+        "Rīga": {
+            "Code": "RIX"
+        },
+        "Rūjienas novads": {
+            "Code": "084"
+        },
+        "Salacgrīvas novads": {
+            "Code": "086"
+        },
+        "Salas novads": {
+            "Code": "085"
+        },
+        "Salaspils novads": {
+            "Code": "087"
+        },
+        "Saldus novads": {
+            "Code": "088"
+        },
+        "Saulkrastu novads": {
+            "Code": "089"
+        },
+        "Siguldas novads": {
+            "Code": "091"
+        },
+        "Skrundas novads": {
+            "Code": "093"
+        },
+        "Skrīveru novads": {
+            "Code": "092"
+        },
+        "Smiltenes novads": {
+            "Code": "094"
+        },
+        "Stopiņu novads": {
+            "Code": "095"
+        },
+        "Strenču novads": {
+            "Code": "096"
+        },
+        "Sējas novads": {
+            "Code": "090"
+        },
+        "Talsu novads": {
+            "Code": "097"
+        },
+        "Tukuma novads": {
+            "Code": "099"
+        },
+        "Tērvetes novads": {
+            "Code": "098"
+        },
+        "Vaiņodes novads": {
+            "Code": "100"
+        },
+        "Valkas novads": {
+            "Code": "101"
+        },
+        "Valmiera": {
+            "Code": "VMR"
+        },
+        "Varakļānu novads": {
+            "Code": "102"
+        },
+        "Vecpiebalgas novads": {
+            "Code": "104"
+        },
+        "Vecumnieku novads": {
+            "Code": "105"
+        },
+        "Ventspils": {
+            "Code": "VEN"
+        },
+        "Ventspils novads": {
+            "Code": "106"
+        },
+        "Viesītes novads": {
+            "Code": "107"
+        },
+        "Viļakas novads": {
+            "Code": "108"
+        },
+        "Viļānu novads": {
+            "Code": "109"
+        },
+        "Vārkavas novads": {
+            "Code": "103"
+        },
+        "Zilupes novads": {
+            "Code": "110"
+        },
+        "Ādažu novads": {
+            "Code": "011"
+        },
+        "Ērgļu novads": {
+            "Code": "030"
+        },
+        "Ķeguma novads": {
+            "Code": "051"
+        },
+        "Ķekavas novads": {
+            "Code": "052"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "LV",
+        "Code2": "LVA"
+    },
+    "Region": "Europe",
+    "Sub Region": "Northern Europe",
+    "Currency": {
+        "Code": "EUR",
+        "Name": "Euro",
+        "Symbol": "€"
+    },
+    "Languages": {
+        "Code": "lv",
+        "Native Name": "Latvian"
+    },
+    "Dialing Code": "+371",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/lva.svg"
+}

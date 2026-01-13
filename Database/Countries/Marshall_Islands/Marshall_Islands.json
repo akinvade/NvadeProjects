@@ -1,0 +1,33 @@
+{
+    "Name": "Marshall Islands",
+    "Capital": "Majuro",
+    "States": {
+        "Ralik chain": {
+            "Code": "L"
+        },
+        "Ratak chain": {
+            "Code": "T"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "MH",
+        "Code2": "MHL"
+    },
+    "Region": "Oceania",
+    "Sub Region": "Micronesia",
+    "Currency": {
+        "Code": "USD",
+        "Name": "United States dollar",
+        "Symbol": "$"
+    },
+    "Languages": {
+        "Code": "en",
+        "Native Name": "English"
+    },
+    "Dialing Code": "+692",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/mhl.svg"
+}

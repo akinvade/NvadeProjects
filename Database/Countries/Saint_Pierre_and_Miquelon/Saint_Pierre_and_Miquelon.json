@@ -1,0 +1,26 @@
+{
+    "Name": "Saint Pierre and Miquelon",
+    "Capital": "Saint-Pierre",
+    "States": {},
+    "ShortCodes": {
+        "Code1": "PM",
+        "Code2": "SPM"
+    },
+    "Region": "Americas",
+    "Sub Region": "Northern America",
+    "Currency": {
+        "Code": "EUR",
+        "Name": "Euro",
+        "Symbol": "€"
+    },
+    "Languages": {
+        "Code": "fr",
+        "Native Name": "French"
+    },
+    "Dialing Code": "+508",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/spm.svg"
+}

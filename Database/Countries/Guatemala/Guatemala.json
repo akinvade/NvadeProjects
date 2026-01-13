@@ -1,0 +1,93 @@
+{
+    "Name": "Guatemala",
+    "Capital": "Guatemala City",
+    "States": {
+        "Alta Verapaz": {
+            "Code": "AV"
+        },
+        "Baja Verapaz": {
+            "Code": "BV"
+        },
+        "Chimaltenango": {
+            "Code": "CM"
+        },
+        "Chiquimula": {
+            "Code": "CQ"
+        },
+        "El Progreso": {
+            "Code": "PR"
+        },
+        "Escuintla": {
+            "Code": "ES"
+        },
+        "Guatemala": {
+            "Code": "GU"
+        },
+        "Huehuetenango": {
+            "Code": "HU"
+        },
+        "Izabal": {
+            "Code": "IZ"
+        },
+        "Jalapa": {
+            "Code": "JA"
+        },
+        "Jutiapa": {
+            "Code": "JU"
+        },
+        "Petén": {
+            "Code": "PE"
+        },
+        "Quetzaltenango": {
+            "Code": "QZ"
+        },
+        "Quiché": {
+            "Code": "QC"
+        },
+        "Retalhuleu": {
+            "Code": "RE"
+        },
+        "Sacatepéquez": {
+            "Code": "SA"
+        },
+        "San Marcos": {
+            "Code": "SM"
+        },
+        "Santa Rosa": {
+            "Code": "SR"
+        },
+        "Sololá": {
+            "Code": "SO"
+        },
+        "Suchitepéquez": {
+            "Code": "SU"
+        },
+        "Totonicapán": {
+            "Code": "TO"
+        },
+        "Zacapa": {
+            "Code": "ZA"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "GT",
+        "Code2": "GTM"
+    },
+    "Region": "Americas",
+    "Sub Region": "Central America",
+    "Currency": {
+        "Code": "GTQ",
+        "Name": "Guatemalan quetzal",
+        "Symbol": "Q"
+    },
+    "Languages": {
+        "Code": "es",
+        "Native Name": "Spanish"
+    },
+    "Dialing Code": "+502",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/gtm.svg"
+}

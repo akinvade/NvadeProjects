@@ -1,0 +1,75 @@
+{
+    "Name": "Cuba",
+    "Capital": "Havana",
+    "States": {
+        "Artemisa": {
+            "Code": "15"
+        },
+        "Camagüey": {
+            "Code": "09"
+        },
+        "Ciego de Ávila": {
+            "Code": "08"
+        },
+        "Cienfuegos": {
+            "Code": "06"
+        },
+        "Granma": {
+            "Code": "12"
+        },
+        "Guantánamo": {
+            "Code": "14"
+        },
+        "Holguín": {
+            "Code": "11"
+        },
+        "Isla de la Juventud": {
+            "Code": "99"
+        },
+        "La Habana": {
+            "Code": "03"
+        },
+        "Las Tunas": {
+            "Code": "10"
+        },
+        "Matanzas": {
+            "Code": "04"
+        },
+        "Mayabeque": {
+            "Code": "16"
+        },
+        "Pinar del Río": {
+            "Code": "01"
+        },
+        "Sancti Spíritus": {
+            "Code": "07"
+        },
+        "Santiago de Cuba": {
+            "Code": "13"
+        },
+        "Villa Clara": {
+            "Code": "05"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "CU",
+        "Code2": "CUB"
+    },
+    "Region": "Americas",
+    "Sub Region": "Caribbean",
+    "Currency": {
+        "Code": "CUC",
+        "Name": "Cuban convertible peso",
+        "Symbol": "$"
+    },
+    "Languages": {
+        "Code": "es",
+        "Native Name": "Spanish"
+    },
+    "Dialing Code": "+53",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/cub.svg"
+}

@@ -1,0 +1,75 @@
+{
+    "Name": "Trinidad and Tobago",
+    "Capital": "Port of Spain",
+    "States": {
+        "Arima": {
+            "Code": "ARI"
+        },
+        "Chaguanas": {
+            "Code": "CHA"
+        },
+        "Couva-Tabaquite-Talparo": {
+            "Code": "CTT"
+        },
+        "Diego Martin": {
+            "Code": "DMN"
+        },
+        "Eastern Tobago": {
+            "Code": "ETO"
+        },
+        "Penal-Debe": {
+            "Code": "PED"
+        },
+        "Point Fortin": {
+            "Code": "PTF"
+        },
+        "Port of Spain": {
+            "Code": "POS"
+        },
+        "Princes Town": {
+            "Code": "PRT"
+        },
+        "Rio Claro-Mayaro": {
+            "Code": "RCM"
+        },
+        "San Fernando": {
+            "Code": "SFO"
+        },
+        "San Juan-Laventille": {
+            "Code": "SJL"
+        },
+        "Sangre Grande": {
+            "Code": "SGE"
+        },
+        "Siparia": {
+            "Code": "SIP"
+        },
+        "Tunapuna-Piarco": {
+            "Code": "TUP"
+        },
+        "Western Tobago": {
+            "Code": "WTO"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "TT",
+        "Code2": "TTO"
+    },
+    "Region": "Americas",
+    "Sub Region": "Caribbean",
+    "Currency": {
+        "Code": "TTD",
+        "Name": "Trinidad and Tobago dollar",
+        "Symbol": "$"
+    },
+    "Languages": {
+        "Code": "en",
+        "Native Name": "English"
+    },
+    "Dialing Code": "+1",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/tto.svg"
+}

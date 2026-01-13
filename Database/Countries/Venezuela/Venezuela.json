@@ -1,0 +1,104 @@
+{
+    "Name": "Venezuela",
+    "Capital": "Caracas",
+    "States": {
+        "Amazonas": {
+            "Code": "Z"
+        },
+        "Anzoátegui": {
+            "Code": "B"
+        },
+        "Apure": {
+            "Code": "C"
+        },
+        "Aragua": {
+            "Code": "D"
+        },
+        "Barinas": {
+            "Code": "E"
+        },
+        "Bolívar": {
+            "Code": "F"
+        },
+        "Carabobo": {
+            "Code": "G"
+        },
+        "Cojedes": {
+            "Code": "H"
+        },
+        "Delta Amacuro": {
+            "Code": "Y"
+        },
+        "Dependencias Federales": {
+            "Code": "W"
+        },
+        "Distrito Capital": {
+            "Code": "A"
+        },
+        "Falcón": {
+            "Code": "I"
+        },
+        "Guárico": {
+            "Code": "J"
+        },
+        "Lara": {
+            "Code": "K"
+        },
+        "Miranda": {
+            "Code": "M"
+        },
+        "Monagas": {
+            "Code": "N"
+        },
+        "Mérida": {
+            "Code": "L"
+        },
+        "Nueva Esparta": {
+            "Code": "O"
+        },
+        "Portuguesa": {
+            "Code": "P"
+        },
+        "Sucre": {
+            "Code": "R"
+        },
+        "Trujillo": {
+            "Code": "T"
+        },
+        "Táchira": {
+            "Code": "S"
+        },
+        "Vargas": {
+            "Code": "X"
+        },
+        "Yaracuy": {
+            "Code": "U"
+        },
+        "Zulia": {
+            "Code": "V"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "VE",
+        "Code2": "VEN"
+    },
+    "Region": "Americas",
+    "Sub Region": "South America",
+    "Currency": {
+        "Code": "",
+        "Name": "",
+        "Symbol": ""
+    },
+    "Languages": {
+        "Code": "",
+        "Native Name": "",
+        "Name": "",
+        "ISO": ""
+    },
+    "Dialing Code": "+58",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": ""
+}

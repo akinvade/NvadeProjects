@@ -1,0 +1,123 @@
+{
+    "Name": "Mexico",
+    "Capital": "Mexico City",
+    "States": {
+        "Distrito Federal": {
+            "Code": "DIF"
+        },
+        "Aguascalientes": {
+            "Code": "AGU"
+        },
+        "Baja California": {
+            "Code": "BCN"
+        },
+        "Baja California Sur": {
+            "Code": "BCS"
+        },
+        "Campeche": {
+            "Code": "CAM"
+        },
+        "Chiapas": {
+            "Code": "CHP"
+        },
+        "Chihuahua": {
+            "Code": "CHH"
+        },
+        "Coahuila": {
+            "Code": "COA"
+        },
+        "Colima": {
+            "Code": "COL"
+        },
+        "Durango": {
+            "Code": "DUR"
+        },
+        "Guanajuato": {
+            "Code": "GUA"
+        },
+        "Guerrero": {
+            "Code": "GRO"
+        },
+        "Hidalgo": {
+            "Code": "HID"
+        },
+        "Jalisco": {
+            "Code": "JAL"
+        },
+        "Michoacán": {
+            "Code": "MIC"
+        },
+        "Morelos": {
+            "Code": "MOR"
+        },
+        "México": {
+            "Code": "MEX"
+        },
+        "Nayarit": {
+            "Code": "NAY"
+        },
+        "Nuevo León": {
+            "Code": "NLE"
+        },
+        "Oaxaca": {
+            "Code": "OAX"
+        },
+        "Puebla": {
+            "Code": "PUE"
+        },
+        "Querétaro": {
+            "Code": "QUE"
+        },
+        "Quintana Roo": {
+            "Code": "ROO"
+        },
+        "San Luis Potosí": {
+            "Code": "SLP"
+        },
+        "Sinaloa": {
+            "Code": "SIN"
+        },
+        "Sonora": {
+            "Code": "SON"
+        },
+        "Tabasco": {
+            "Code": "TAB"
+        },
+        "Tamaulipas": {
+            "Code": "TAM"
+        },
+        "Tlaxcala": {
+            "Code": "TLA"
+        },
+        "Veracruz": {
+            "Code": "VER"
+        },
+        "Yucatán": {
+            "Code": "YUC"
+        },
+        "Zacatecas": {
+            "Code": "ZAC"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "MX",
+        "Code2": "MEX"
+    },
+    "Region": "Americas",
+    "Sub Region": "Central America",
+    "Currency": {
+        "Code": "MXN",
+        "Name": "Mexican peso",
+        "Symbol": "$"
+    },
+    "Languages": {
+        "Code": "es",
+        "Native Name": "Spanish"
+    },
+    "Dialing Code": "+52",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/mex.svg"
+}

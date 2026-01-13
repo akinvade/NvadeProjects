@@ -1,0 +1,129 @@
+{
+    "Name": "Afghanistan",
+    "Capital": "Kabul",
+    "States": {
+        "Badakhshān": {
+            "Code": "BDS"
+        },
+        "Baghlān": {
+            "Code": "BGL"
+        },
+        "Balkh": {
+            "Code": "BAL"
+        },
+        "Bādghīs": {
+            "Code": "BDG"
+        },
+        "Bāmyān": {
+            "Code": "BAM"
+        },
+        "Dāykundī": {
+            "Code": "DAY"
+        },
+        "Farāh": {
+            "Code": "FRA"
+        },
+        "Fāryāb": {
+            "Code": "FYB"
+        },
+        "Ghaznī": {
+            "Code": "GHA"
+        },
+        "Ghōr": {
+            "Code": "GHO"
+        },
+        "Helmand": {
+            "Code": "HEL"
+        },
+        "Herāt": {
+            "Code": "HER"
+        },
+        "Jowzjān": {
+            "Code": "JOW"
+        },
+        "Kandahār": {
+            "Code": "KAN"
+        },
+        "Khōst": {
+            "Code": "KHO"
+        },
+        "Kunar": {
+            "Code": "KNR"
+        },
+        "Kunduz": {
+            "Code": "KDZ"
+        },
+        "Kābul": {
+            "Code": "KAB"
+        },
+        "Kāpīsā": {
+            "Code": "KAP"
+        },
+        "Laghmān": {
+            "Code": "LAG"
+        },
+        "Lōgar": {
+            "Code": "LOG"
+        },
+        "Nangarhār": {
+            "Code": "NAN"
+        },
+        "Nīmrōz": {
+            "Code": "NIM"
+        },
+        "Nūristān": {
+            "Code": "NUR"
+        },
+        "Paktiyā": {
+            "Code": "PIA"
+        },
+        "Paktīkā": {
+            "Code": "PKA"
+        },
+        "Panjshayr": {
+            "Code": "PAN"
+        },
+        "Parwān": {
+            "Code": "PAR"
+        },
+        "Samangān": {
+            "Code": "SAM"
+        },
+        "Sar-e Pul": {
+            "Code": "SAR"
+        },
+        "Takhār": {
+            "Code": "TAK"
+        },
+        "Uruzgān": {
+            "Code": "URU"
+        },
+        "Wardak": {
+            "Code": "WAR"
+        },
+        "Zābul": {
+            "Code": "ZAB"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "AF",
+        "Code2": "AFG"
+    },
+    "Region": "Asia",
+    "Sub Region": "Southern Asia",
+    "Currency": {
+        "Code": "AFN",
+        "Name": "Afghan afghani",
+        "Symbol": "؋"
+    },
+    "Languages": {
+        "Code": "ps",
+        "Native Name": "Pashto"
+    },
+    "Dialing Code": "+93",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/afg.svg"
+}

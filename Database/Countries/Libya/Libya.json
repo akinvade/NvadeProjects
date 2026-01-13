@@ -1,0 +1,93 @@
+{
+    "Name": "Libya",
+    "Capital": "Tripoli",
+    "States": {
+        "Al Buţnān": {
+            "Code": "BU"
+        },
+        "Al Jabal al Akhḑar": {
+            "Code": "JA"
+        },
+        "Al Jabal al Gharbī": {
+            "Code": "JG"
+        },
+        "Al Jifārah": {
+            "Code": "JI"
+        },
+        "Al Jufrah": {
+            "Code": "JU"
+        },
+        "Al Kufrah": {
+            "Code": "KF"
+        },
+        "Al Marj": {
+            "Code": "MJ"
+        },
+        "Al Marqab": {
+            "Code": "MB"
+        },
+        "Al Wāḩāt": {
+            "Code": "WA"
+        },
+        "An Nuqaţ al Khams": {
+            "Code": "NQ"
+        },
+        "Az Zāwiyah": {
+            "Code": "ZA"
+        },
+        "Banghāzī": {
+            "Code": "BA"
+        },
+        "Darnah": {
+            "Code": "DR"
+        },
+        "Ghāt": {
+            "Code": "GT"
+        },
+        "Mişrātah": {
+            "Code": "MI"
+        },
+        "Murzuq": {
+            "Code": "MQ"
+        },
+        "Nālūt": {
+            "Code": "NL"
+        },
+        "Sabhā": {
+            "Code": "SB"
+        },
+        "Surt": {
+            "Code": "SR"
+        },
+        "Wādī al Ḩayāt": {
+            "Code": "WD"
+        },
+        "Wādī ash Shāţiʾ": {
+            "Code": "WS"
+        },
+        "Ţarābulus": {
+            "Code": "TB"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "LY",
+        "Code2": "LBY"
+    },
+    "Region": "Africa",
+    "Sub Region": "Northern Africa",
+    "Currency": {
+        "Code": "LYD",
+        "Name": "Libyan dinar",
+        "Symbol": "ل.د"
+    },
+    "Languages": {
+        "Code": "ar",
+        "Native Name": "Arabic"
+    },
+    "Dialing Code": "+218",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/lby.svg"
+}

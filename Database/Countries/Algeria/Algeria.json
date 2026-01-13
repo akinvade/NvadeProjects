@@ -1,0 +1,171 @@
+{
+    "Name": "Algeria",
+    "Capital": "Algiers",
+    "States": {
+        "Adrar": {
+            "Code": "01"
+        },
+        "Alger": {
+            "Code": "16"
+        },
+        "Annaba": {
+            "Code": "23"
+        },
+        "Aïn Defla": {
+            "Code": "44"
+        },
+        "Aïn Témouchent": {
+            "Code": "46"
+        },
+        "Batna": {
+            "Code": "05"
+        },
+        "Biskra": {
+            "Code": "07"
+        },
+        "Blida": {
+            "Code": "09"
+        },
+        "Bordj Bou Arréridj": {
+            "Code": "34"
+        },
+        "Bouira": {
+            "Code": "10"
+        },
+        "Boumerdès": {
+            "Code": "35"
+        },
+        "Béchar": {
+            "Code": "08"
+        },
+        "Béjaïa": {
+            "Code": "06"
+        },
+        "Chlef": {
+            "Code": "02"
+        },
+        "Constantine": {
+            "Code": "25"
+        },
+        "Djelfa": {
+            "Code": "17"
+        },
+        "El Bayadh": {
+            "Code": "32"
+        },
+        "El Oued": {
+            "Code": "39"
+        },
+        "El Tarf": {
+            "Code": "36"
+        },
+        "Ghardaïa": {
+            "Code": "47"
+        },
+        "Guelma": {
+            "Code": "24"
+        },
+        "Illizi": {
+            "Code": "33"
+        },
+        "Jijel": {
+            "Code": "18"
+        },
+        "Khenchela": {
+            "Code": "40"
+        },
+        "Laghouat": {
+            "Code": "03"
+        },
+        "Mascara": {
+            "Code": "29"
+        },
+        "Mila": {
+            "Code": "43"
+        },
+        "Mostaganem": {
+            "Code": "27"
+        },
+        "Msila": {
+            "Code": "28"
+        },
+        "Médéa": {
+            "Code": "26"
+        },
+        "Naama": {
+            "Code": "45"
+        },
+        "Oran": {
+            "Code": "31"
+        },
+        "Ouargla": {
+            "Code": "30"
+        },
+        "Oum el Bouaghi": {
+            "Code": "04"
+        },
+        "Relizane": {
+            "Code": "48"
+        },
+        "Saïda": {
+            "Code": "20"
+        },
+        "Sidi Bel Abbès": {
+            "Code": "22"
+        },
+        "Skikda": {
+            "Code": "21"
+        },
+        "Souk Ahras": {
+            "Code": "41"
+        },
+        "Sétif": {
+            "Code": "19"
+        },
+        "Tamanghasset": {
+            "Code": "11"
+        },
+        "Tiaret": {
+            "Code": "14"
+        },
+        "Tindouf": {
+            "Code": "37"
+        },
+        "Tipaza": {
+            "Code": "42"
+        },
+        "Tissemsilt": {
+            "Code": "38"
+        },
+        "Tizi Ouzou": {
+            "Code": "15"
+        },
+        "Tlemcen": {
+            "Code": "13"
+        },
+        "Tébessa": {
+            "Code": "12"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "DZ",
+        "Code2": "DZA"
+    },
+    "Region": "Africa",
+    "Sub Region": "Northern Africa",
+    "Currency": {
+        "Code": "DZD",
+        "Name": "Algerian dinar",
+        "Symbol": "د.ج"
+    },
+    "Languages": {
+        "Code": "ar",
+        "Native Name": "Arabic"
+    },
+    "Dialing Code": "+213",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/dza.svg"
+}

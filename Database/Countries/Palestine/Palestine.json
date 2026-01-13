@@ -1,0 +1,77 @@
+{
+    "Name": "Palestine",
+    "Capital": "Ramallah",
+    "States": {
+        "Bethlehem": {
+            "Code": "BTH"
+        },
+        "Deir El Balah": {
+            "Code": "DEB"
+        },
+        "Gaza": {
+            "Code": "GZA"
+        },
+        "Hebron": {
+            "Code": "HBN"
+        },
+        "Jenin": {
+            "Code": "JEN"
+        },
+        "Jericho – Al Aghwar": {
+            "Code": "JRH"
+        },
+        "Jerusalem": {
+            "Code": "JEM"
+        },
+        "Khan Yunis": {
+            "Code": "KYS"
+        },
+        "Nablus": {
+            "Code": "NBS"
+        },
+        "North Gaza": {
+            "Code": "NGZ"
+        },
+        "Qalqilya": {
+            "Code": "QQA"
+        },
+        "Rafah": {
+            "Code": "RFH"
+        },
+        "Ramallah": {
+            "Code": "RBH"
+        },
+        "Salfit": {
+            "Code": "SLT"
+        },
+        "Tubas": {
+            "Code": "TBS"
+        },
+        "Tulkarm": {
+            "Code": "TKM"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "PS",
+        "Code2": "PSE"
+    },
+    "Region": "Asia",
+    "Sub Region": "Western Asia",
+    "Currency": {
+        "Code": "",
+        "Name": "",
+        "Symbol": ""
+    },
+    "Languages": {
+        "Code": "",
+        "Native Name": "",
+        "Name": "",
+        "ISO": ""
+    },
+    "Dialing Code": "+970",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": ""
+}

@@ -1,0 +1,28 @@
+{
+    "Name": "Saint Martin",
+    "Capital": "Marigot",
+    "States": {},
+    "ShortCodes": {
+        "Code1": "MF",
+        "Code2": "MAF"
+    },
+    "Region": "Americas",
+    "Sub Region": "Caribbean",
+    "Currency": {
+        "Code": "",
+        "Name": "",
+        "Symbol": ""
+    },
+    "Languages": {
+        "Code": "",
+        "Native Name": "",
+        "Name": "",
+        "ISO": ""
+    },
+    "Dialing Code": "+590",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": ""
+}

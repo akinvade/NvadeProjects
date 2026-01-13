@@ -1,0 +1,54 @@
+{
+    "Name": "Iceland",
+    "Capital": "Reykjavík",
+    "States": {
+        "Austurland": {
+            "Code": "7"
+        },
+        "Höfuðborgarsvæði utan Reykjavíkur": {
+            "Code": "1"
+        },
+        "Norðurland eystra": {
+            "Code": "6"
+        },
+        "Norðurland vestra": {
+            "Code": "5"
+        },
+        "Reykjavík": {
+            "Code": "0"
+        },
+        "Suðurland": {
+            "Code": "8"
+        },
+        "Suðurnes": {
+            "Code": "2"
+        },
+        "Vestfirðir": {
+            "Code": "4"
+        },
+        "Vesturland": {
+            "Code": "3"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "IS",
+        "Code2": "ISL"
+    },
+    "Region": "Europe",
+    "Sub Region": "Northern Europe",
+    "Currency": {
+        "Code": "ISK",
+        "Name": "Icelandic króna",
+        "Symbol": "kr"
+    },
+    "Languages": {
+        "Code": "is",
+        "Native Name": "Icelandic"
+    },
+    "Dialing Code": "+354",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/isl.svg"
+}

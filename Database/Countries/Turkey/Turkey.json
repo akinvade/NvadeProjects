@@ -1,0 +1,270 @@
+{
+    "Name": "Turkey",
+    "Capital": "Ankara",
+    "States": {
+        "Adana": {
+            "Code": "01"
+        },
+        "Adıyaman": {
+            "Code": "02"
+        },
+        "Afyonkarahisar": {
+            "Code": "03"
+        },
+        "Aksaray": {
+            "Code": "68"
+        },
+        "Amasya": {
+            "Code": "05"
+        },
+        "Ankara": {
+            "Code": "06"
+        },
+        "Antalya": {
+            "Code": "07"
+        },
+        "Ardahan": {
+            "Code": "75"
+        },
+        "Artvin": {
+            "Code": "08"
+        },
+        "Aydın": {
+            "Code": "09"
+        },
+        "Ağrı": {
+            "Code": "04"
+        },
+        "Balıkesir": {
+            "Code": "10"
+        },
+        "Bartın": {
+            "Code": "74"
+        },
+        "Batman": {
+            "Code": "72"
+        },
+        "Bayburt": {
+            "Code": "69"
+        },
+        "Bilecik": {
+            "Code": "11"
+        },
+        "Bingöl": {
+            "Code": "12"
+        },
+        "Bitlis": {
+            "Code": "13"
+        },
+        "Bolu": {
+            "Code": "14"
+        },
+        "Burdur": {
+            "Code": "15"
+        },
+        "Bursa": {
+            "Code": "16"
+        },
+        "Denizli": {
+            "Code": "20"
+        },
+        "Diyarbakır": {
+            "Code": "21"
+        },
+        "Düzce": {
+            "Code": "81"
+        },
+        "Edirne": {
+            "Code": "22"
+        },
+        "Elazığ": {
+            "Code": "23"
+        },
+        "Erzincan": {
+            "Code": "24"
+        },
+        "Erzurum": {
+            "Code": "25"
+        },
+        "Eskişehir": {
+            "Code": "26"
+        },
+        "Gaziantep": {
+            "Code": "27"
+        },
+        "Giresun": {
+            "Code": "28"
+        },
+        "Gümüşhane": {
+            "Code": "29"
+        },
+        "Hakkâri": {
+            "Code": "30"
+        },
+        "Hatay": {
+            "Code": "31"
+        },
+        "Isparta": {
+            "Code": "32"
+        },
+        "Iğdır": {
+            "Code": "76"
+        },
+        "Kahramanmaraş": {
+            "Code": "46"
+        },
+        "Karabük": {
+            "Code": "78"
+        },
+        "Karaman": {
+            "Code": "70"
+        },
+        "Kars": {
+            "Code": "36"
+        },
+        "Kastamonu": {
+            "Code": "37"
+        },
+        "Kayseri": {
+            "Code": "38"
+        },
+        "Kilis": {
+            "Code": "79"
+        },
+        "Kocaeli": {
+            "Code": "41"
+        },
+        "Konya": {
+            "Code": "42"
+        },
+        "Kütahya": {
+            "Code": "43"
+        },
+        "Kırklareli": {
+            "Code": "39"
+        },
+        "Kırıkkale": {
+            "Code": "71"
+        },
+        "Kırşehir": {
+            "Code": "40"
+        },
+        "Malatya": {
+            "Code": "44"
+        },
+        "Manisa": {
+            "Code": "45"
+        },
+        "Mardin": {
+            "Code": "47"
+        },
+        "Mersin": {
+            "Code": "33"
+        },
+        "Muğla": {
+            "Code": "48"
+        },
+        "Muş": {
+            "Code": "49"
+        },
+        "Nevşehir": {
+            "Code": "50"
+        },
+        "Niğde": {
+            "Code": "51"
+        },
+        "Ordu": {
+            "Code": "52"
+        },
+        "Osmaniye": {
+            "Code": "80"
+        },
+        "Rize": {
+            "Code": "53"
+        },
+        "Sakarya": {
+            "Code": "54"
+        },
+        "Samsun": {
+            "Code": "55"
+        },
+        "Siirt": {
+            "Code": "56"
+        },
+        "Sinop": {
+            "Code": "57"
+        },
+        "Sivas": {
+            "Code": "58"
+        },
+        "Tekirdağ": {
+            "Code": "59"
+        },
+        "Tokat": {
+            "Code": "60"
+        },
+        "Trabzon": {
+            "Code": "61"
+        },
+        "Tunceli": {
+            "Code": "62"
+        },
+        "Uşak": {
+            "Code": "64"
+        },
+        "Van": {
+            "Code": "65"
+        },
+        "Yalova": {
+            "Code": "77"
+        },
+        "Yozgat": {
+            "Code": "66"
+        },
+        "Zonguldak": {
+            "Code": "67"
+        },
+        "Çanakkale": {
+            "Code": "17"
+        },
+        "Çankırı": {
+            "Code": "18"
+        },
+        "Çorum": {
+            "Code": "19"
+        },
+        "İstanbul": {
+            "Code": "34"
+        },
+        "İzmir": {
+            "Code": "35"
+        },
+        "Şanlıurfa": {
+            "Code": "63"
+        },
+        "Şırnak": {
+            "Code": "73"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "TR",
+        "Code2": "TUR"
+    },
+    "Region": "Asia",
+    "Sub Region": "Western Asia",
+    "Currency": {
+        "Code": "TRY",
+        "Name": "Turkish lira",
+        "Symbol": null
+    },
+    "Languages": {
+        "Code": "tr",
+        "Native Name": "Turkish"
+    },
+    "Dialing Code": "+90",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/tur.svg"
+}

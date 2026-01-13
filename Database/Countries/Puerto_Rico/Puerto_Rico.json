@@ -1,0 +1,26 @@
+{
+    "Name": "Puerto Rico",
+    "Capital": "San Juan",
+    "States": {},
+    "ShortCodes": {
+        "Code1": "PR",
+        "Code2": "PRI"
+    },
+    "Region": "Americas",
+    "Sub Region": "Caribbean",
+    "Currency": {
+        "Code": "USD",
+        "Name": "United States dollar",
+        "Symbol": "$"
+    },
+    "Languages": {
+        "Code": "es",
+        "Native Name": "Spanish"
+    },
+    "Dialing Code": "+1",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/pri.svg"
+}

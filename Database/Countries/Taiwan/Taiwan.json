@@ -1,0 +1,78 @@
+{
+    "Name": "Taiwan",
+    "Capital": "Taipei",
+    "States": {
+        "Changhua": {
+            "Code": "CHA"
+        },
+        "Chiayi": {
+            "Code": "CYI"
+        },
+        "Hsinchu": {
+            "Code": "HSQ"
+        },
+        "Hualien": {
+            "Code": "HUA"
+        },
+        "Ilan": {
+            "Code": "ILA"
+        },
+        "Kaohsiung": {
+            "Code": "KHH"
+        },
+        "Keelung": {
+            "Code": "KEE"
+        },
+        "Miaoli": {
+            "Code": "MIA"
+        },
+        "Nantou": {
+            "Code": "NAN"
+        },
+        "Penghu": {
+            "Code": "PEN"
+        },
+        "Pingtung": {
+            "Code": "PIF"
+        },
+        "Taichung": {
+            "Code": "TXQ"
+        },
+        "Tainan": {
+            "Code": "TNQ"
+        },
+        "Taipei": {
+            "Code": "TPQ"
+        },
+        "Taitung": {
+            "Code": "TTT"
+        },
+        "Taoyuan": {
+            "Code": "TAO"
+        },
+        "Yunlin": {
+            "Code": "YUN"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "TW",
+        "Code2": "TWN"
+    },
+    "Region": "Asia",
+    "Sub Region": "Eastern Asia",
+    "Currency": {
+        "Code": "TWD",
+        "Name": "New Taiwan dollar",
+        "Symbol": "$"
+    },
+    "Languages": {
+        "Code": "zh",
+        "Native Name": "Chinese"
+    },
+    "Dialing Code": "+886",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/twn.svg"
+}

@@ -1,0 +1,45 @@
+{
+    "Name": "Kuwait",
+    "Capital": "Kuwait City",
+    "States": {
+        "Al Aḩmadi": {
+            "Code": "AH"
+        },
+        "Al Farwānīyah": {
+            "Code": "FA"
+        },
+        "Al Jahrā’": {
+            "Code": "JA"
+        },
+        "Al Kuwayt": {
+            "Code": "KU"
+        },
+        "Mubārak al Kabīr": {
+            "Code": "MU"
+        },
+        "Ḩawallī": {
+            "Code": "HA"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "KW",
+        "Code2": "KWT"
+    },
+    "Region": "Asia",
+    "Sub Region": "Western Asia",
+    "Currency": {
+        "Code": "KWD",
+        "Name": "Kuwaiti dinar",
+        "Symbol": "د.ك"
+    },
+    "Languages": {
+        "Code": "ar",
+        "Native Name": "Arabic"
+    },
+    "Dialing Code": "+965",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/kwt.svg"
+}

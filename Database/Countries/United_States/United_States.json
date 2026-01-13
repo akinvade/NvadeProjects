@@ -1,0 +1,200 @@
+{
+    "Name": "United States",
+    "Capital": "Washington, D.C.",
+    "States": {
+        "District of Columbia": {
+            "Code": "DC"
+        },
+        "American Samoa": {
+            "Code": "AS"
+        },
+        "Guam": {
+            "Code": "GU"
+        },
+        "Northern Mariana Islands": {
+            "Code": "MP"
+        },
+        "Puerto Rico": {
+            "Code": "PR"
+        },
+        "United States Minor Outlying Islands": {
+            "Code": "UM"
+        },
+        "Virgin Islands, U.S.": {
+            "Code": "VI"
+        },
+        "Alabama": {
+            "Code": "AL"
+        },
+        "Alaska": {
+            "Code": "AK"
+        },
+        "Arizona": {
+            "Code": "AZ"
+        },
+        "Arkansas": {
+            "Code": "AR"
+        },
+        "California": {
+            "Code": "CA"
+        },
+        "Colorado": {
+            "Code": "CO"
+        },
+        "Connecticut": {
+            "Code": "CT"
+        },
+        "Delaware": {
+            "Code": "DE"
+        },
+        "Florida": {
+            "Code": "FL"
+        },
+        "Georgia": {
+            "Code": "GA"
+        },
+        "Hawaii": {
+            "Code": "HI"
+        },
+        "Idaho": {
+            "Code": "ID"
+        },
+        "Illinois": {
+            "Code": "IL"
+        },
+        "Indiana": {
+            "Code": "IN"
+        },
+        "Iowa": {
+            "Code": "IA"
+        },
+        "Kansas": {
+            "Code": "KS"
+        },
+        "Kentucky": {
+            "Code": "KY"
+        },
+        "Louisiana": {
+            "Code": "LA"
+        },
+        "Maine": {
+            "Code": "ME"
+        },
+        "Maryland": {
+            "Code": "MD"
+        },
+        "Massachusetts": {
+            "Code": "MA"
+        },
+        "Michigan": {
+            "Code": "MI"
+        },
+        "Minnesota": {
+            "Code": "MN"
+        },
+        "Mississippi": {
+            "Code": "MS"
+        },
+        "Missouri": {
+            "Code": "MO"
+        },
+        "Montana": {
+            "Code": "MT"
+        },
+        "Nebraska": {
+            "Code": "NE"
+        },
+        "Nevada": {
+            "Code": "NV"
+        },
+        "New Hampshire": {
+            "Code": "NH"
+        },
+        "New Jersey": {
+            "Code": "NJ"
+        },
+        "New Mexico": {
+            "Code": "NM"
+        },
+        "New York": {
+            "Code": "NY"
+        },
+        "North Carolina": {
+            "Code": "NC"
+        },
+        "North Dakota": {
+            "Code": "ND"
+        },
+        "Ohio": {
+            "Code": "OH"
+        },
+        "Oklahoma": {
+            "Code": "OK"
+        },
+        "Oregon": {
+            "Code": "OR"
+        },
+        "Pennsylvania": {
+            "Code": "PA"
+        },
+        "Rhode Island": {
+            "Code": "RI"
+        },
+        "South Carolina": {
+            "Code": "SC"
+        },
+        "South Dakota": {
+            "Code": "SD"
+        },
+        "Tennessee": {
+            "Code": "TN"
+        },
+        "Texas": {
+            "Code": "TX"
+        },
+        "Utah": {
+            "Code": "UT"
+        },
+        "Vermont": {
+            "Code": "VT"
+        },
+        "Virginia": {
+            "Code": "VA"
+        },
+        "Washington": {
+            "Code": "WA"
+        },
+        "West Virginia": {
+            "Code": "WV"
+        },
+        "Wisconsin": {
+            "Code": "WI"
+        },
+        "Wyoming": {
+            "Code": "WY"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "US",
+        "Code2": "USA"
+    },
+    "Region": "Americas",
+    "Sub Region": "Northern America",
+    "Currency": {
+        "Code": "USD",
+        "Name": "United States dollar",
+        "Symbol": "$"
+    },
+    "Languages": {
+        "Code": "en",
+        "Native Name": "English",
+        "Name": "English",
+        "ISO": "eng"
+    },
+    "Dialing Code": "+1",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/usa.svg"
+}

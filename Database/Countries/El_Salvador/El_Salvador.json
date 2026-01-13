@@ -1,0 +1,69 @@
+{
+    "Name": "El Salvador",
+    "Capital": "San Salvador",
+    "States": {
+        "Ahuachapán": {
+            "Code": "AH"
+        },
+        "Cabañas": {
+            "Code": "CA"
+        },
+        "Chalatenango": {
+            "Code": "CH"
+        },
+        "Cuscatlán": {
+            "Code": "CU"
+        },
+        "La Libertad": {
+            "Code": "LI"
+        },
+        "La Paz": {
+            "Code": "PA"
+        },
+        "La Unión": {
+            "Code": "UN"
+        },
+        "Morazán": {
+            "Code": "MO"
+        },
+        "San Miguel": {
+            "Code": "SM"
+        },
+        "San Salvador": {
+            "Code": "SS"
+        },
+        "San Vicente": {
+            "Code": "SV"
+        },
+        "Santa Ana": {
+            "Code": "SA"
+        },
+        "Sonsonate": {
+            "Code": "SO"
+        },
+        "Usulután": {
+            "Code": "US"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "SV",
+        "Code2": "SLV"
+    },
+    "Region": "Americas",
+    "Sub Region": "Central America",
+    "Currency": {
+        "Code": "USD",
+        "Name": "United States dollar",
+        "Symbol": "$"
+    },
+    "Languages": {
+        "Code": "es",
+        "Native Name": "Spanish"
+    },
+    "Dialing Code": "+503",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/slv.svg"
+}

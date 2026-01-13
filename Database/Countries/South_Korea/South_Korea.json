@@ -1,0 +1,80 @@
+{
+    "Name": "South Korea",
+    "Capital": "Seoul",
+    "States": {
+        "Busan-gwangyeoksi": {
+            "Code": "26"
+        },
+        "Chungcheongbuk-do": {
+            "Code": "43"
+        },
+        "Chungcheongnam-do": {
+            "Code": "44"
+        },
+        "Daegu-gwangyeoksi": {
+            "Code": "27"
+        },
+        "Daejeon-gwangyeoksi": {
+            "Code": "30"
+        },
+        "Gangwon-do": {
+            "Code": "42"
+        },
+        "Gwangju-gwangyeoksi": {
+            "Code": "29"
+        },
+        "Gyeonggi-do": {
+            "Code": "41"
+        },
+        "Gyeongsangbuk-do": {
+            "Code": "47"
+        },
+        "Gyeongsangnam-do": {
+            "Code": "48"
+        },
+        "Incheon-gwangyeoksi": {
+            "Code": "28"
+        },
+        "Jeju-teukbyeoljachido": {
+            "Code": "49"
+        },
+        "Jeollabuk-do": {
+            "Code": "45"
+        },
+        "Jeollanam-do": {
+            "Code": "46"
+        },
+        "Sejong": {
+            "Code": "50"
+        },
+        "Seoul-teukbyeolsi": {
+            "Code": "11"
+        },
+        "Ulsan-gwangyeoksi": {
+            "Code": "31"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "KR",
+        "Code2": "KOR"
+    },
+    "Region": "Asia",
+    "Sub Region": "Eastern Asia",
+    "Currency": {
+        "Code": "",
+        "Name": "",
+        "Symbol": ""
+    },
+    "Languages": {
+        "Code": "",
+        "Native Name": "",
+        "Name": "",
+        "ISO": ""
+    },
+    "Dialing Code": "+82",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": ""
+}

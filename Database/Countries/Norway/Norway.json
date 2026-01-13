@@ -1,0 +1,90 @@
+{
+    "Name": "Norway",
+    "Capital": "Oslo",
+    "States": {
+        "Akershus": {
+            "Code": "02"
+        },
+        "Aust-Agder": {
+            "Code": "09"
+        },
+        "Buskerud": {
+            "Code": "06"
+        },
+        "Finnmark": {
+            "Code": "20"
+        },
+        "Hedmark": {
+            "Code": "04"
+        },
+        "Hordaland": {
+            "Code": "12"
+        },
+        "Jan Mayen": {
+            "Code": "22"
+        },
+        "Møre og Romsdal": {
+            "Code": "15"
+        },
+        "Nord-Trøndelag": {
+            "Code": "17"
+        },
+        "Nordland": {
+            "Code": "18"
+        },
+        "Oppland": {
+            "Code": "05"
+        },
+        "Oslo": {
+            "Code": "03"
+        },
+        "Rogaland": {
+            "Code": "11"
+        },
+        "Sogn og Fjordane": {
+            "Code": "14"
+        },
+        "Svalbard": {
+            "Code": "21"
+        },
+        "Sør-Trøndelag": {
+            "Code": "16"
+        },
+        "Telemark": {
+            "Code": "08"
+        },
+        "Troms": {
+            "Code": "19"
+        },
+        "Vest-Agder": {
+            "Code": "10"
+        },
+        "Vestfold": {
+            "Code": "07"
+        },
+        "Østfold": {
+            "Code": "01"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "NO",
+        "Code2": "NOR"
+    },
+    "Region": "Europe",
+    "Sub Region": "Northern Europe",
+    "Currency": {
+        "Code": "NOK",
+        "Name": "Norwegian krone",
+        "Symbol": "kr"
+    },
+    "Languages": {
+        "Code": "no",
+        "Native Name": "Norwegian"
+    },
+    "Dialing Code": "+47",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/nor.svg"
+}

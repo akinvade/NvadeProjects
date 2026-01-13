@@ -1,0 +1,39 @@
+{
+    "Name": "Greenland",
+    "Capital": "Nuuk",
+    "States": {
+        "Kommune Kujalleq": {
+            "Code": "KU"
+        },
+        "Kommuneqarfik Sermersooq": {
+            "Code": "SM"
+        },
+        "Qaasuitsup Kommunia": {
+            "Code": "QA"
+        },
+        "Qeqqata Kommunia": {
+            "Code": "QE"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "GL",
+        "Code2": "GRL"
+    },
+    "Region": "Americas",
+    "Sub Region": "Northern America",
+    "Currency": {
+        "Code": "DKK",
+        "Name": "Danish krone",
+        "Symbol": "kr"
+    },
+    "Languages": {
+        "Code": "kl",
+        "Native Name": "Kalaallisut"
+    },
+    "Dialing Code": "+299",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/grl.svg"
+}

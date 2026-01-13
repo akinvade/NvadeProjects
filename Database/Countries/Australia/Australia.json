@@ -1,0 +1,51 @@
+{
+    "Name": "Australia",
+    "Capital": "Canberra",
+    "States": {
+        "Australian Capital Territory": {
+            "Code": "ACT"
+        },
+        "New South Wales": {
+            "Code": "NSW"
+        },
+        "Northern Territory": {
+            "Code": "NT"
+        },
+        "Queensland": {
+            "Code": "QLD"
+        },
+        "South Australia": {
+            "Code": "SA"
+        },
+        "Tasmania": {
+            "Code": "TAS"
+        },
+        "Victoria": {
+            "Code": "VIC"
+        },
+        "Western Australia": {
+            "Code": "WA"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "AU",
+        "Code2": "AUS"
+    },
+    "Region": "Oceania",
+    "Sub Region": "Australia and New Zealand",
+    "Currency": {
+        "Code": "AUD",
+        "Name": "Australian dollar",
+        "Symbol": "$"
+    },
+    "Languages": {
+        "Code": "en",
+        "Native Name": "English"
+    },
+    "Dialing Code": "+61",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/aus.svg"
+}

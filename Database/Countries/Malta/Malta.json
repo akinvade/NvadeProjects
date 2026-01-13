@@ -1,0 +1,231 @@
+{
+    "Name": "Malta",
+    "Capital": "Valletta",
+    "States": {
+        "Attard": {
+            "Code": "01"
+        },
+        "Balzan": {
+            "Code": "02"
+        },
+        "Birgu": {
+            "Code": "03"
+        },
+        "Birkirkara": {
+            "Code": "04"
+        },
+        "Birżebbuġa": {
+            "Code": "05"
+        },
+        "Bormla": {
+            "Code": "06"
+        },
+        "Dingli": {
+            "Code": "07"
+        },
+        "Fgura": {
+            "Code": "08"
+        },
+        "Floriana": {
+            "Code": "09"
+        },
+        "Fontana": {
+            "Code": "10"
+        },
+        "Gudja": {
+            "Code": "11"
+        },
+        "Għajnsielem": {
+            "Code": "13"
+        },
+        "Għarb": {
+            "Code": "14"
+        },
+        "Għargħur": {
+            "Code": "15"
+        },
+        "Għasri": {
+            "Code": "16"
+        },
+        "Għaxaq": {
+            "Code": "17"
+        },
+        "Gżira": {
+            "Code": "12"
+        },
+        "Iklin": {
+            "Code": "19"
+        },
+        "Isla": {
+            "Code": "20"
+        },
+        "Kalkara": {
+            "Code": "21"
+        },
+        "Kerċem": {
+            "Code": "22"
+        },
+        "Kirkop": {
+            "Code": "23"
+        },
+        "Lija": {
+            "Code": "24"
+        },
+        "Luqa": {
+            "Code": "25"
+        },
+        "Marsa": {
+            "Code": "26"
+        },
+        "Marsaskala": {
+            "Code": "27"
+        },
+        "Marsaxlokk": {
+            "Code": "28"
+        },
+        "Mdina": {
+            "Code": "29"
+        },
+        "Mellieħa": {
+            "Code": "30"
+        },
+        "Mosta": {
+            "Code": "32"
+        },
+        "Mqabba": {
+            "Code": "33"
+        },
+        "Msida": {
+            "Code": "34"
+        },
+        "Mtarfa": {
+            "Code": "35"
+        },
+        "Munxar": {
+            "Code": "36"
+        },
+        "Mġarr": {
+            "Code": "31"
+        },
+        "Nadur": {
+            "Code": "37"
+        },
+        "Naxxar": {
+            "Code": "38"
+        },
+        "Paola": {
+            "Code": "39"
+        },
+        "Pembroke": {
+            "Code": "40"
+        },
+        "Pietà": {
+            "Code": "41"
+        },
+        "Qala": {
+            "Code": "42"
+        },
+        "Qormi": {
+            "Code": "43"
+        },
+        "Qrendi": {
+            "Code": "44"
+        },
+        "Rabat Għawdex": {
+            "Code": "45"
+        },
+        "Rabat Malta": {
+            "Code": "46"
+        },
+        "Safi": {
+            "Code": "47"
+        },
+        "San Lawrenz": {
+            "Code": "50"
+        },
+        "San Pawl il-Baħar": {
+            "Code": "51"
+        },
+        "San Ġiljan": {
+            "Code": "48"
+        },
+        "San Ġwann": {
+            "Code": "49"
+        },
+        "Sannat": {
+            "Code": "52"
+        },
+        "Santa Luċija": {
+            "Code": "53"
+        },
+        "Santa Venera": {
+            "Code": "54"
+        },
+        "Siġġiewi": {
+            "Code": "55"
+        },
+        "Sliema": {
+            "Code": "56"
+        },
+        "Swieqi": {
+            "Code": "57"
+        },
+        "Ta' Xbiex": {
+            "Code": "58"
+        },
+        "Tarxien": {
+            "Code": "59"
+        },
+        "Valletta": {
+            "Code": "60"
+        },
+        "Xagħra": {
+            "Code": "61"
+        },
+        "Xewkija": {
+            "Code": "62"
+        },
+        "Xgħajra": {
+            "Code": "63"
+        },
+        "Ħamrun": {
+            "Code": "18"
+        },
+        "Żabbar": {
+            "Code": "64"
+        },
+        "Żebbuġ Għawdex": {
+            "Code": "65"
+        },
+        "Żebbuġ Malta": {
+            "Code": "66"
+        },
+        "Żejtun": {
+            "Code": "67"
+        },
+        "Żurrieq": {
+            "Code": "68"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "MT",
+        "Code2": "MLT"
+    },
+    "Region": "Europe",
+    "Sub Region": "Southern Europe",
+    "Currency": {
+        "Code": "EUR",
+        "Name": "Euro",
+        "Symbol": "€"
+    },
+    "Languages": {
+        "Code": "mt",
+        "Native Name": "Maltese"
+    },
+    "Dialing Code": "+356",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/mlt.svg"
+}

@@ -1,0 +1,75 @@
+{
+    "Name": "Morocco",
+    "Capital": "Rabat",
+    "States": {
+        "Chaouia-Ouardigha": {
+            "Code": "09"
+        },
+        "Doukhala-Abda": {
+            "Code": "10"
+        },
+        "Fès-Boulemane": {
+            "Code": "05"
+        },
+        "Gharb-Chrarda-Beni Hssen": {
+            "Code": "02"
+        },
+        "Grand Casablanca": {
+            "Code": "08"
+        },
+        "Guelmim-Es Smara": {
+            "Code": "14"
+        },
+        "L'Oriental": {
+            "Code": "04"
+        },
+        "Laâyoune-Boujdour-Sakia el Hamra": {
+            "Code": "15"
+        },
+        "Marrakech-Tensift-Al Haouz": {
+            "Code": "11"
+        },
+        "Meknès-Tafilalet": {
+            "Code": "06"
+        },
+        "Oued ed Dahab-Lagouira": {
+            "Code": "16"
+        },
+        "Rabat-Salé-Zemmour-Zaer": {
+            "Code": "07"
+        },
+        "Souss-Massa-Drâa": {
+            "Code": "13"
+        },
+        "Tadla-Azilal": {
+            "Code": "12"
+        },
+        "Tanger-Tétouan": {
+            "Code": "01"
+        },
+        "Taza-Al Hoceima-Taounate": {
+            "Code": "03"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "MA",
+        "Code2": "MAR"
+    },
+    "Region": "Africa",
+    "Sub Region": "Northern Africa",
+    "Currency": {
+        "Code": "MAD",
+        "Name": "Moroccan dirham",
+        "Symbol": "د.م."
+    },
+    "Languages": {
+        "Code": "ar",
+        "Native Name": "Arabic"
+    },
+    "Dialing Code": "+212",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/mar.svg"
+}

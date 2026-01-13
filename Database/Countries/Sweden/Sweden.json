@@ -1,0 +1,90 @@
+{
+    "Name": "Sweden",
+    "Capital": "Stockholm",
+    "States": {
+        "Blekinge län": {
+            "Code": "K"
+        },
+        "Dalarnas län": {
+            "Code": "W"
+        },
+        "Gotlands län": {
+            "Code": "I"
+        },
+        "Gävleborgs län": {
+            "Code": "X"
+        },
+        "Hallands län": {
+            "Code": "N"
+        },
+        "Jämtlands län": {
+            "Code": "Z"
+        },
+        "Jönköpings län": {
+            "Code": "F"
+        },
+        "Kalmar län": {
+            "Code": "H"
+        },
+        "Kronobergs län": {
+            "Code": "G"
+        },
+        "Norrbottens län": {
+            "Code": "BD"
+        },
+        "Skåne län": {
+            "Code": "M"
+        },
+        "Stockholms län": {
+            "Code": "AB"
+        },
+        "Södermanlands län": {
+            "Code": "D"
+        },
+        "Uppsala län": {
+            "Code": "C"
+        },
+        "Värmlands län": {
+            "Code": "S"
+        },
+        "Västerbottens län": {
+            "Code": "AC"
+        },
+        "Västernorrlands län": {
+            "Code": "Y"
+        },
+        "Västmanlands län": {
+            "Code": "U"
+        },
+        "Västra Götalands län": {
+            "Code": "O"
+        },
+        "Örebro län": {
+            "Code": "T"
+        },
+        "Östergötlands län": {
+            "Code": "E"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "SE",
+        "Code2": "SWE"
+    },
+    "Region": "Europe",
+    "Sub Region": "Northern Europe",
+    "Currency": {
+        "Code": "SEK",
+        "Name": "Swedish krona",
+        "Symbol": "kr"
+    },
+    "Languages": {
+        "Code": "sv",
+        "Native Name": "Swedish"
+    },
+    "Dialing Code": "+46",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/swe.svg"
+}

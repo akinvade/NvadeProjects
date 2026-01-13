@@ -1,0 +1,75 @@
+{
+    "Name": "Germany",
+    "Capital": "Berlin",
+    "States": {
+        "Baden-Württemberg": {
+            "Code": "BW"
+        },
+        "Bayern": {
+            "Code": "BY"
+        },
+        "Berlin": {
+            "Code": "BE"
+        },
+        "Brandenburg": {
+            "Code": "BB"
+        },
+        "Bremen": {
+            "Code": "HB"
+        },
+        "Hamburg": {
+            "Code": "HH"
+        },
+        "Hessen": {
+            "Code": "HE"
+        },
+        "Mecklenburg-Vorpommern": {
+            "Code": "MV"
+        },
+        "Niedersachsen": {
+            "Code": "NI"
+        },
+        "Nordrhein-Westfalen": {
+            "Code": "NW"
+        },
+        "Rheinland-Pfalz": {
+            "Code": "RP"
+        },
+        "Saarland": {
+            "Code": "SL"
+        },
+        "Sachsen": {
+            "Code": "SN"
+        },
+        "Sachsen-Anhalt": {
+            "Code": "ST"
+        },
+        "Schleswig-Holstein": {
+            "Code": "SH"
+        },
+        "Thüringen": {
+            "Code": "TH"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "DE",
+        "Code2": "DEU"
+    },
+    "Region": "Europe",
+    "Sub Region": "Western Europe",
+    "Currency": {
+        "Code": "EUR",
+        "Name": "Euro",
+        "Symbol": "€"
+    },
+    "Languages": {
+        "Code": "de",
+        "Native Name": "German"
+    },
+    "Dialing Code": "+49",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/deu.svg"
+}

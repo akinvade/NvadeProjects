@@ -1,0 +1,66 @@
+{
+    "Name": "Greece",
+    "Capital": "Athens",
+    "States": {
+        "Anatoliki Makedonia kai Thraki": {
+            "Code": "A"
+        },
+        "Attiki": {
+            "Code": "I"
+        },
+        "Dytiki Ellada": {
+            "Code": "G"
+        },
+        "Dytiki Makedonia": {
+            "Code": "C"
+        },
+        "Ionia Nisia": {
+            "Code": "F"
+        },
+        "Ipeiros": {
+            "Code": "D"
+        },
+        "Kentriki Makedonia": {
+            "Code": "B"
+        },
+        "Kriti": {
+            "Code": "M"
+        },
+        "Notio Aigaio": {
+            "Code": "L"
+        },
+        "Peloponnisos": {
+            "Code": "J"
+        },
+        "Sterea Ellada": {
+            "Code": "H"
+        },
+        "Thessalia": {
+            "Code": "E"
+        },
+        "Voreio Aigaio": {
+            "Code": "K"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "GR",
+        "Code2": "GRC"
+    },
+    "Region": "Europe",
+    "Sub Region": "Southern Europe",
+    "Currency": {
+        "Code": "EUR",
+        "Name": "Euro",
+        "Symbol": "€"
+    },
+    "Languages": {
+        "Code": "el",
+        "Native Name": "Greek (modern)"
+    },
+    "Dialing Code": "+30",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/grc.svg"
+}

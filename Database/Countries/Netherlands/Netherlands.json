@@ -1,0 +1,81 @@
+{
+    "Name": "Netherlands",
+    "Capital": "Amsterdam",
+    "States": {
+        "Drenthe": {
+            "Code": "DR"
+        },
+        "Flevoland": {
+            "Code": "FL"
+        },
+        "Fryslân": {
+            "Code": "FR"
+        },
+        "Gelderland": {
+            "Code": "GE"
+        },
+        "Groningen": {
+            "Code": "GR"
+        },
+        "Limburg": {
+            "Code": "LI"
+        },
+        "Noord-Brabant": {
+            "Code": "NB"
+        },
+        "Noord-Holland": {
+            "Code": "NH"
+        },
+        "Overijssel": {
+            "Code": "OV"
+        },
+        "Utrecht": {
+            "Code": "UT"
+        },
+        "Zeeland": {
+            "Code": "ZE"
+        },
+        "Zuid-Holland": {
+            "Code": "ZH"
+        },
+        "Aruba": {
+            "Code": "AW"
+        },
+        "Curaçao": {
+            "Code": "CW"
+        },
+        "Sint Maarten": {
+            "Code": "SX"
+        },
+        "Bonaire": {
+            "Code": "BQ1"
+        },
+        "Saba": {
+            "Code": "BQ2"
+        },
+        "Sint Eustatius": {
+            "Code": "BQ3"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "NL",
+        "Code2": "NLD"
+    },
+    "Region": "Europe",
+    "Sub Region": "Western Europe",
+    "Currency": {
+        "Code": "EUR",
+        "Name": "Euro",
+        "Symbol": "€"
+    },
+    "Languages": {
+        "Code": "nl",
+        "Native Name": "Dutch"
+    },
+    "Dialing Code": "+31",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/nld.svg"
+}

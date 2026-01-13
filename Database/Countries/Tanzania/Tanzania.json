@@ -1,0 +1,107 @@
+{
+    "Name": "Tanzania",
+    "Capital": "Dodoma",
+    "States": {
+        "Arusha": {
+            "Code": "01"
+        },
+        "Dar es Salaam": {
+            "Code": "02"
+        },
+        "Dodoma": {
+            "Code": "03"
+        },
+        "Iringa": {
+            "Code": "04"
+        },
+        "Kagera": {
+            "Code": "05"
+        },
+        "Kaskazini Pemba": {
+            "Code": "06"
+        },
+        "Kaskazini Unguja": {
+            "Code": "07"
+        },
+        "Kigoma": {
+            "Code": "08"
+        },
+        "Kilimanjaro": {
+            "Code": "09"
+        },
+        "Kusini Pemba": {
+            "Code": "10"
+        },
+        "Kusini Unguja": {
+            "Code": "11"
+        },
+        "Lindi": {
+            "Code": "12"
+        },
+        "Manyara": {
+            "Code": "26"
+        },
+        "Mara": {
+            "Code": "13"
+        },
+        "Mbeya": {
+            "Code": "14"
+        },
+        "Mjini Magharibi": {
+            "Code": "15"
+        },
+        "Morogoro": {
+            "Code": "16"
+        },
+        "Mtwara": {
+            "Code": "17"
+        },
+        "Mwanza": {
+            "Code": "18"
+        },
+        "Pwani": {
+            "Code": "19"
+        },
+        "Rukwa": {
+            "Code": "20"
+        },
+        "Ruvuma": {
+            "Code": "21"
+        },
+        "Shinyanga": {
+            "Code": "22"
+        },
+        "Singida": {
+            "Code": "23"
+        },
+        "Tabora": {
+            "Code": "24"
+        },
+        "Tanga": {
+            "Code": "25"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "TZ",
+        "Code2": "TZA"
+    },
+    "Region": "Africa",
+    "Sub Region": "Eastern Africa",
+    "Currency": {
+        "Code": "",
+        "Name": "",
+        "Symbol": ""
+    },
+    "Languages": {
+        "Code": "",
+        "Native Name": "",
+        "Name": "",
+        "ISO": ""
+    },
+    "Dialing Code": "+255",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": ""
+}

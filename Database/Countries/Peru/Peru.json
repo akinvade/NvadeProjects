@@ -1,0 +1,105 @@
+{
+    "Name": "Peru",
+    "Capital": "Lima",
+    "States": {
+        "Amazonas": {
+            "Code": "AMA"
+        },
+        "Ancash": {
+            "Code": "ANC"
+        },
+        "Apurímac": {
+            "Code": "APU"
+        },
+        "Arequipa": {
+            "Code": "ARE"
+        },
+        "Ayacucho": {
+            "Code": "AYA"
+        },
+        "Cajamarca": {
+            "Code": "CAJ"
+        },
+        "Cusco": {
+            "Code": "CUS"
+        },
+        "El Callao": {
+            "Code": "CAL"
+        },
+        "Huancavelica": {
+            "Code": "HUV"
+        },
+        "Huánuco": {
+            "Code": "HUC"
+        },
+        "Ica": {
+            "Code": "ICA"
+        },
+        "Junín": {
+            "Code": "JUN"
+        },
+        "La Libertad": {
+            "Code": "LAL"
+        },
+        "Lambayeque": {
+            "Code": "LAM"
+        },
+        "Lima": {
+            "Code": "LIM"
+        },
+        "Loreto": {
+            "Code": "LOR"
+        },
+        "Madre de Dios": {
+            "Code": "MDD"
+        },
+        "Moquegua": {
+            "Code": "MOQ"
+        },
+        "Municipalidad Metropolitana de Lima": {
+            "Code": "LMA"
+        },
+        "Pasco": {
+            "Code": "PAS"
+        },
+        "Piura": {
+            "Code": "PIU"
+        },
+        "Puno": {
+            "Code": "PUN"
+        },
+        "San Martín": {
+            "Code": "SAM"
+        },
+        "Tacna": {
+            "Code": "TAC"
+        },
+        "Tumbes": {
+            "Code": "TUM"
+        },
+        "Ucayali": {
+            "Code": "UCA"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "PE",
+        "Code2": "PER"
+    },
+    "Region": "Americas",
+    "Sub Region": "South America",
+    "Currency": {
+        "Code": "PEN",
+        "Name": "Peruvian sol",
+        "Symbol": "S/."
+    },
+    "Languages": {
+        "Code": "es",
+        "Native Name": "Spanish"
+    },
+    "Dialing Code": "+51",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/per.svg"
+}

@@ -1,0 +1,41 @@
+{
+    "Name": "Federated States of Micronesia",
+    "Capital": "Palikir",
+    "States": {
+        "Chuuk": {
+            "Code": "TRK"
+        },
+        "Kosrae": {
+            "Code": "KSA"
+        },
+        "Pohnpei": {
+            "Code": "PNI"
+        },
+        "Yap": {
+            "Code": "YAP"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "FM",
+        "Code2": "FSM"
+    },
+    "Region": "Oceania",
+    "Sub Region": "Micronesia",
+    "Currency": {
+        "Code": "",
+        "Name": "",
+        "Symbol": ""
+    },
+    "Languages": {
+        "Code": "",
+        "Native Name": "",
+        "Name": "",
+        "ISO": ""
+    },
+    "Dialing Code": "+691",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": ""
+}

@@ -1,0 +1,28 @@
+{
+    "Name": "Bonaire",
+    "Capital": "Kralendijk",
+    "States": {},
+    "ShortCodes": {
+        "Code1": "BQ",
+        "Code2": "BES"
+    },
+    "Region": "Americas",
+    "Sub Region": "Caribbean",
+    "Currency": {
+        "Code": "",
+        "Name": "",
+        "Symbol": ""
+    },
+    "Languages": {
+        "Code": "",
+        "Native Name": "",
+        "Name": "",
+        "ISO": ""
+    },
+    "Dialing Code": "+599",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": ""
+}

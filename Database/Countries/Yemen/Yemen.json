@@ -1,0 +1,87 @@
+{
+    "Name": "Yemen",
+    "Capital": "Sana'a",
+    "States": {
+        "'Adan": {
+            "Code": "AD"
+        },
+        "'Amrān": {
+            "Code": "AM"
+        },
+        "Abyān": {
+            "Code": "AB"
+        },
+        "Al Bayḑā'": {
+            "Code": "BA"
+        },
+        "Al Jawf": {
+            "Code": "JA"
+        },
+        "Al Mahrah": {
+            "Code": "MR"
+        },
+        "Al Maḩwīt": {
+            "Code": "MW"
+        },
+        "Al Ḩudaydah": {
+            "Code": "HU"
+        },
+        "Aḑ Ḑāli'": {
+            "Code": "DA"
+        },
+        "Dhamār": {
+            "Code": "DH"
+        },
+        "Ibb": {
+            "Code": "IB"
+        },
+        "Laḩij": {
+            "Code": "LA"
+        },
+        "Ma'rib": {
+            "Code": "MA"
+        },
+        "Raymah": {
+            "Code": "RA"
+        },
+        "Shabwah": {
+            "Code": "SH"
+        },
+        "Tā‘izz": {
+            "Code": "TA"
+        },
+        "Şan‘ā'": {
+            "Code": "SN"
+        },
+        "Şā‘dah": {
+            "Code": "SD"
+        },
+        "Ḩajjah": {
+            "Code": "HJ"
+        },
+        "Ḩaḑramawt": {
+            "Code": "HD"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "YE",
+        "Code2": "YEM"
+    },
+    "Region": "Asia",
+    "Sub Region": "Western Asia",
+    "Currency": {
+        "Code": "YER",
+        "Name": "Yemeni rial",
+        "Symbol": "﷼"
+    },
+    "Languages": {
+        "Code": "ar",
+        "Native Name": "Arabic"
+    },
+    "Dialing Code": "+967",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/yem.svg"
+}

@@ -1,0 +1,42 @@
+{
+    "Name": "Nepal",
+    "Capital": "Kathmandu",
+    "States": {
+        "Madhya Pashchimanchal": {
+            "Code": "2"
+        },
+        "Madhyamanchal": {
+            "Code": "1"
+        },
+        "Pashchimanchal": {
+            "Code": "3"
+        },
+        "Purwanchal": {
+            "Code": "4"
+        },
+        "Sudur Pashchimanchal": {
+            "Code": "5"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "NP",
+        "Code2": "NPL"
+    },
+    "Region": "Asia",
+    "Sub Region": "Southern Asia",
+    "Currency": {
+        "Code": "NPR",
+        "Name": "Nepalese rupee",
+        "Symbol": "₨"
+    },
+    "Languages": {
+        "Code": "ne",
+        "Native Name": "Nepali"
+    },
+    "Dialing Code": "+977",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/npl.svg"
+}

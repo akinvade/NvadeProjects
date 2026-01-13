@@ -1,0 +1,51 @@
+{
+    "Name": "Maldives",
+    "Capital": "Malé",
+    "States": {
+        "Central": {
+            "Code": "CE"
+        },
+        "Male": {
+            "Code": "MLE"
+        },
+        "North": {
+            "Code": "NO"
+        },
+        "North Central": {
+            "Code": "NC"
+        },
+        "South": {
+            "Code": "SU"
+        },
+        "South Central": {
+            "Code": "SC"
+        },
+        "Upper North": {
+            "Code": "UN"
+        },
+        "Upper South": {
+            "Code": "US"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "MV",
+        "Code2": "MDV"
+    },
+    "Region": "Asia",
+    "Sub Region": "Southern Asia",
+    "Currency": {
+        "Code": "MVR",
+        "Name": "Maldivian rufiyaa",
+        "Symbol": ".ރ"
+    },
+    "Languages": {
+        "Code": "dv",
+        "Native Name": "Divehi"
+    },
+    "Dialing Code": "+960",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/mdv.svg"
+}

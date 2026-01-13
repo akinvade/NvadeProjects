@@ -1,0 +1,96 @@
+{
+    "Name": "Montenegro",
+    "Capital": "Podgorica",
+    "States": {
+        "Andrijevica": {
+            "Code": "01"
+        },
+        "Bar": {
+            "Code": "02"
+        },
+        "Berane": {
+            "Code": "03"
+        },
+        "Bijelo Polje": {
+            "Code": "04"
+        },
+        "Budva": {
+            "Code": "05"
+        },
+        "Cetinje": {
+            "Code": "06"
+        },
+        "Danilovgrad": {
+            "Code": "07"
+        },
+        "Gusinje": {
+            "Code": "22"
+        },
+        "Herceg-Novi": {
+            "Code": "08"
+        },
+        "Kolašin": {
+            "Code": "09"
+        },
+        "Kotor": {
+            "Code": "10"
+        },
+        "Mojkovac": {
+            "Code": "11"
+        },
+        "Nikšić": {
+            "Code": "12"
+        },
+        "Petnjica": {
+            "Code": "23"
+        },
+        "Plav": {
+            "Code": "13"
+        },
+        "Pljevlja": {
+            "Code": "14"
+        },
+        "Plužine": {
+            "Code": "15"
+        },
+        "Podgorica": {
+            "Code": "16"
+        },
+        "Rožaje": {
+            "Code": "17"
+        },
+        "Tivat": {
+            "Code": "19"
+        },
+        "Ulcinj": {
+            "Code": "20"
+        },
+        "Šavnik": {
+            "Code": "18"
+        },
+        "Žabljak": {
+            "Code": "21"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "ME",
+        "Code2": "MNE"
+    },
+    "Region": "Europe",
+    "Sub Region": "Southern Europe",
+    "Currency": {
+        "Code": "EUR",
+        "Name": "Euro",
+        "Symbol": "€"
+    },
+    "Languages": {
+        "Code": "sr",
+        "Native Name": "Serbian"
+    },
+    "Dialing Code": "+382",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/mne.svg"
+}

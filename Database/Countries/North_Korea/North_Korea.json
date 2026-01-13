@@ -1,0 +1,62 @@
+{
+    "Name": "North Korea",
+    "Capital": "Pyongyang",
+    "States": {
+        "Chagang": {
+            "Code": "04"
+        },
+        "Kangwon": {
+            "Code": "07"
+        },
+        "North Hamgyong": {
+            "Code": "09"
+        },
+        "North Hwanghae": {
+            "Code": "06"
+        },
+        "North Pyongan": {
+            "Code": "03"
+        },
+        "Pyongyang": {
+            "Code": "01"
+        },
+        "Rason": {
+            "Code": "13"
+        },
+        "Ryanggang": {
+            "Code": "10"
+        },
+        "South Hamgyong": {
+            "Code": "08"
+        },
+        "South Hwanghae": {
+            "Code": "05"
+        },
+        "South Pyongan": {
+            "Code": "02"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "KP",
+        "Code2": "PRK"
+    },
+    "Region": "Asia",
+    "Sub Region": "Eastern Asia",
+    "Currency": {
+        "Code": "",
+        "Name": "",
+        "Symbol": ""
+    },
+    "Languages": {
+        "Code": "",
+        "Native Name": "",
+        "Name": "",
+        "ISO": ""
+    },
+    "Dialing Code": "+850",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": ""
+}

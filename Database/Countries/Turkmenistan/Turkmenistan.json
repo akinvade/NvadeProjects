@@ -1,0 +1,45 @@
+{
+    "Name": "Turkmenistan",
+    "Capital": "Ashgabat",
+    "States": {
+        "Ahal": {
+            "Code": "A"
+        },
+        "Aşgabat": {
+            "Code": "S"
+        },
+        "Balkan": {
+            "Code": "B"
+        },
+        "Daşoguz": {
+            "Code": "D"
+        },
+        "Lebap": {
+            "Code": "L"
+        },
+        "Mary": {
+            "Code": "M"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "TM",
+        "Code2": "TKM"
+    },
+    "Region": "Asia",
+    "Sub Region": "Central Asia",
+    "Currency": {
+        "Code": "TMT",
+        "Name": "Turkmenistan manat",
+        "Symbol": "m"
+    },
+    "Languages": {
+        "Code": "tk",
+        "Native Name": "Turkmen"
+    },
+    "Dialing Code": "+993",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/tkm.svg"
+}

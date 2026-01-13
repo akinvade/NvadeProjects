@@ -1,0 +1,42 @@
+{
+    "Name": "Bahrain",
+    "Capital": "Manama",
+    "States": {
+        "Al Janūbīyah": {
+            "Code": "14"
+        },
+        "Al Manāmah": {
+            "Code": "13"
+        },
+        "Al Muḩarraq": {
+            "Code": "15"
+        },
+        "Al Wusţá": {
+            "Code": "16"
+        },
+        "Ash Shamālīyah": {
+            "Code": "17"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "BH",
+        "Code2": "BHR"
+    },
+    "Region": "Asia",
+    "Sub Region": "Western Asia",
+    "Currency": {
+        "Code": "BHD",
+        "Name": "Bahraini dinar",
+        "Symbol": ".د.ب"
+    },
+    "Languages": {
+        "Code": "ar",
+        "Native Name": "Arabic"
+    },
+    "Dialing Code": "+973",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/bhr.svg"
+}

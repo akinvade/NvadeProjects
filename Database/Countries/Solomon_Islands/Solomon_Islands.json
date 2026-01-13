@@ -1,0 +1,57 @@
+{
+    "Name": "Solomon Islands",
+    "Capital": "Honiara",
+    "States": {
+        "Capital Territory": {
+            "Code": "CT"
+        },
+        "Central": {
+            "Code": "CE"
+        },
+        "Choiseul": {
+            "Code": "CH"
+        },
+        "Guadalcanal": {
+            "Code": "GU"
+        },
+        "Isabel": {
+            "Code": "IS"
+        },
+        "Makira-Ulawa": {
+            "Code": "MK"
+        },
+        "Malaita": {
+            "Code": "ML"
+        },
+        "Rennell and Bellona": {
+            "Code": "RB"
+        },
+        "Temotu": {
+            "Code": "TE"
+        },
+        "Western": {
+            "Code": "WE"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "SB",
+        "Code2": "SLB"
+    },
+    "Region": "Oceania",
+    "Sub Region": "Melanesia",
+    "Currency": {
+        "Code": "SBD",
+        "Name": "Solomon Islands dollar",
+        "Symbol": "$"
+    },
+    "Languages": {
+        "Code": "en",
+        "Native Name": "English"
+    },
+    "Dialing Code": "+677",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/slb.svg"
+}

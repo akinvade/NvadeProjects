@@ -1,0 +1,26 @@
+{
+    "Name": "British Indian Ocean Territory",
+    "Capital": "Diego Garcia",
+    "States": {},
+    "ShortCodes": {
+        "Code1": "IO",
+        "Code2": "IOT"
+    },
+    "Region": "Africa",
+    "Sub Region": "Eastern Africa",
+    "Currency": {
+        "Code": "USD",
+        "Name": "United States dollar",
+        "Symbol": "$"
+    },
+    "Languages": {
+        "Code": "en",
+        "Native Name": "English"
+    },
+    "Dialing Code": "+246",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/iot.svg"
+}

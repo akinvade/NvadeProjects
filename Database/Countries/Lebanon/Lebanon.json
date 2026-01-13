@@ -1,0 +1,51 @@
+{
+    "Name": "Lebanon",
+    "Capital": "Beirut",
+    "States": {
+        "Aakkâr": {
+            "Code": "AK"
+        },
+        "Baalbek-Hermel": {
+            "Code": "BH"
+        },
+        "Beyrouth": {
+            "Code": "BA"
+        },
+        "Béqaa": {
+            "Code": "BI"
+        },
+        "Liban-Nord": {
+            "Code": "AS"
+        },
+        "Liban-Sud": {
+            "Code": "JA"
+        },
+        "Mont-Liban": {
+            "Code": "JL"
+        },
+        "Nabatîyé": {
+            "Code": "NA"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "LB",
+        "Code2": "LBN"
+    },
+    "Region": "Asia",
+    "Sub Region": "Western Asia",
+    "Currency": {
+        "Code": "LBP",
+        "Name": "Lebanese pound",
+        "Symbol": "ل.ل"
+    },
+    "Languages": {
+        "Code": "ar",
+        "Native Name": "Arabic"
+    },
+    "Dialing Code": "+961",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/lbn.svg"
+}

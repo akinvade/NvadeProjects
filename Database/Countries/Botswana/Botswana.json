@@ -1,0 +1,75 @@
+{
+    "Name": "Botswana",
+    "Capital": "Gaborone",
+    "States": {
+        "Central": {
+            "Code": "CE"
+        },
+        "Chobe": {
+            "Code": "CH"
+        },
+        "Francistown": {
+            "Code": "FR"
+        },
+        "Gaborone": {
+            "Code": "GA"
+        },
+        "Ghanzi": {
+            "Code": "GH"
+        },
+        "Jwaneng": {
+            "Code": "JW"
+        },
+        "Kgalagadi": {
+            "Code": "KG"
+        },
+        "Kgatleng": {
+            "Code": "KL"
+        },
+        "Kweneng": {
+            "Code": "KW"
+        },
+        "Lobatse": {
+            "Code": "LO"
+        },
+        "North-East": {
+            "Code": "NE"
+        },
+        "North-West": {
+            "Code": "NW"
+        },
+        "Selibe Phikwe": {
+            "Code": "SP"
+        },
+        "South-East": {
+            "Code": "SE"
+        },
+        "Southern": {
+            "Code": "SO"
+        },
+        "Sowa Town": {
+            "Code": "ST"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "BW",
+        "Code2": "BWA"
+    },
+    "Region": "Africa",
+    "Sub Region": "Southern Africa",
+    "Currency": {
+        "Code": "BWP",
+        "Name": "Botswana pula",
+        "Symbol": "P"
+    },
+    "Languages": {
+        "Code": "en",
+        "Native Name": "English"
+    },
+    "Dialing Code": "+267",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/bwa.svg"
+}

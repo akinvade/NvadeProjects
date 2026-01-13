@@ -1,0 +1,45 @@
+{
+    "Name": "Eritrea",
+    "Capital": "Asmara",
+    "States": {
+        "Al Awsaţ": {
+            "Code": "MA"
+        },
+        "Al Janūbĩ": {
+            "Code": "DU"
+        },
+        "Ansabā": {
+            "Code": "AN"
+        },
+        "Janūbī al Baḩrī al Aḩmar": {
+            "Code": "DK"
+        },
+        "Qāsh-Barkah": {
+            "Code": "GB"
+        },
+        "Shimālī al Baḩrī al Aḩmar": {
+            "Code": "SK"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "ER",
+        "Code2": "ERI"
+    },
+    "Region": "Africa",
+    "Sub Region": "Eastern Africa",
+    "Currency": {
+        "Code": "ERN",
+        "Name": "Eritrean nakfa",
+        "Symbol": "Nfk"
+    },
+    "Languages": {
+        "Code": "en",
+        "Native Name": "English"
+    },
+    "Dialing Code": "+291",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/eri.svg"
+}

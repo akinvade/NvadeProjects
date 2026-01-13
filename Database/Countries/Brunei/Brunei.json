@@ -1,0 +1,41 @@
+{
+    "Name": "Brunei",
+    "Capital": "Bandar Seri Begawan",
+    "States": {
+        "Belait": {
+            "Code": "BE"
+        },
+        "Brunei-Muara": {
+            "Code": "BM"
+        },
+        "Temburong": {
+            "Code": "TE"
+        },
+        "Tutong": {
+            "Code": "TU"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "BN",
+        "Code2": "BRN"
+    },
+    "Region": "Asia",
+    "Sub Region": "South-Eastern Asia",
+    "Currency": {
+        "Code": "",
+        "Name": "",
+        "Symbol": ""
+    },
+    "Languages": {
+        "Code": "",
+        "Native Name": "",
+        "Name": "",
+        "ISO": ""
+    },
+    "Dialing Code": "+673",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": ""
+}

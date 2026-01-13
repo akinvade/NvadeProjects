@@ -1,0 +1,135 @@
+{
+    "Name": "India",
+    "Capital": "New Delhi",
+    "States": {
+        "Andaman and Nicobar Islands": {
+            "Code": "AN"
+        },
+        "Chandigarh": {
+            "Code": "CH"
+        },
+        "Dadra and Nagar Haveli": {
+            "Code": "DN"
+        },
+        "Daman and Diu": {
+            "Code": "DD"
+        },
+        "Delhi": {
+            "Code": "DL"
+        },
+        "Lakshadweep": {
+            "Code": "LD"
+        },
+        "Puducherry": {
+            "Code": "PY"
+        },
+        "Andhra Pradesh": {
+            "Code": "AP"
+        },
+        "Arunachal Pradesh": {
+            "Code": "AR"
+        },
+        "Assam": {
+            "Code": "AS"
+        },
+        "Bihar": {
+            "Code": "BR"
+        },
+        "Chhattisgarh": {
+            "Code": "CT"
+        },
+        "Goa": {
+            "Code": "GA"
+        },
+        "Gujarat": {
+            "Code": "GJ"
+        },
+        "Haryana": {
+            "Code": "HR"
+        },
+        "Himachal Pradesh": {
+            "Code": "HP"
+        },
+        "Jammu and Kashmir": {
+            "Code": "JK"
+        },
+        "Jharkhand": {
+            "Code": "JH"
+        },
+        "Karnataka": {
+            "Code": "KA"
+        },
+        "Kerala": {
+            "Code": "KL"
+        },
+        "Madhya Pradesh": {
+            "Code": "MP"
+        },
+        "Maharashtra": {
+            "Code": "MH"
+        },
+        "Manipur": {
+            "Code": "MN"
+        },
+        "Meghalaya": {
+            "Code": "ML"
+        },
+        "Mizoram": {
+            "Code": "MZ"
+        },
+        "Nagaland": {
+            "Code": "NL"
+        },
+        "Odisha": {
+            "Code": "OR"
+        },
+        "Punjab": {
+            "Code": "PB"
+        },
+        "Rajasthan": {
+            "Code": "RJ"
+        },
+        "Sikkim": {
+            "Code": "SK"
+        },
+        "Tamil Nadu": {
+            "Code": "TN"
+        },
+        "Telangana": {
+            "Code": "TG"
+        },
+        "Tripura": {
+            "Code": "TR"
+        },
+        "Uttar Pradesh": {
+            "Code": "UP"
+        },
+        "Uttarakhand": {
+            "Code": "UT"
+        },
+        "West Bengal": {
+            "Code": "WB"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "IN",
+        "Code2": "IND"
+    },
+    "Region": "Asia",
+    "Sub Region": "Southern Asia",
+    "Currency": {
+        "Code": "INR",
+        "Name": "Indian rupee",
+        "Symbol": "₹"
+    },
+    "Languages": {
+        "Code": "hi",
+        "Native Name": "Hindi"
+    },
+    "Dialing Code": "+91",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/ind.svg"
+}

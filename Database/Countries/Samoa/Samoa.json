@@ -1,0 +1,60 @@
+{
+    "Name": "Samoa",
+    "Capital": "Apia",
+    "States": {
+        "A'ana": {
+            "Code": "AA"
+        },
+        "Aiga-i-le-Tai": {
+            "Code": "AL"
+        },
+        "Atua": {
+            "Code": "AT"
+        },
+        "Fa'asaleleaga": {
+            "Code": "FA"
+        },
+        "Gaga'emauga": {
+            "Code": "GE"
+        },
+        "Gagaifomauga": {
+            "Code": "GI"
+        },
+        "Palauli": {
+            "Code": "PA"
+        },
+        "Satupa'itea": {
+            "Code": "SA"
+        },
+        "Tuamasaga": {
+            "Code": "TU"
+        },
+        "Va'a-o-Fonoti": {
+            "Code": "VF"
+        },
+        "Vaisigano": {
+            "Code": "VS"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "WS",
+        "Code2": "WSM"
+    },
+    "Region": "Oceania",
+    "Sub Region": "Polynesia",
+    "Currency": {
+        "Code": "WST",
+        "Name": "Samoan tālā",
+        "Symbol": "T"
+    },
+    "Languages": {
+        "Code": "sm",
+        "Native Name": "Samoan"
+    },
+    "Dialing Code": "+685",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/wsm.svg"
+}

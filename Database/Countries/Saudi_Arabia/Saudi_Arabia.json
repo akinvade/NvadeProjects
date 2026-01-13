@@ -1,0 +1,66 @@
+{
+    "Name": "Saudi Arabia",
+    "Capital": "Riyadh",
+    "States": {
+        "Al Bāḩah": {
+            "Code": "11"
+        },
+        "Al Jawf": {
+            "Code": "12"
+        },
+        "Al Madīnah": {
+            "Code": "03"
+        },
+        "Al Qaşīm": {
+            "Code": "05"
+        },
+        "Al Ḩudūd ash Shamālīyah": {
+            "Code": "08"
+        },
+        "Ar Riyāḑ": {
+            "Code": "01"
+        },
+        "Ash Sharqīyah": {
+            "Code": "04"
+        },
+        "Jīzān": {
+            "Code": "09"
+        },
+        "Makkah": {
+            "Code": "02"
+        },
+        "Najrān": {
+            "Code": "10"
+        },
+        "Tabūk": {
+            "Code": "07"
+        },
+        "ٰĀsīr": {
+            "Code": "14"
+        },
+        "Ḩā'il": {
+            "Code": "06"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "SA",
+        "Code2": "SAU"
+    },
+    "Region": "Asia",
+    "Sub Region": "Western Asia",
+    "Currency": {
+        "Code": "SAR",
+        "Name": "Saudi riyal",
+        "Symbol": "ر.س"
+    },
+    "Languages": {
+        "Code": "ar",
+        "Native Name": "Arabic"
+    },
+    "Dialing Code": "+966",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/sau.svg"
+}

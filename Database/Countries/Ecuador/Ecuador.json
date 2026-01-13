@@ -1,0 +1,99 @@
+{
+    "Name": "Ecuador",
+    "Capital": "Quito",
+    "States": {
+        "Azuay": {
+            "Code": "A"
+        },
+        "Bolívar": {
+            "Code": "B"
+        },
+        "Carchi": {
+            "Code": "C"
+        },
+        "Cañar": {
+            "Code": "F"
+        },
+        "Chimborazo": {
+            "Code": "H"
+        },
+        "Cotopaxi": {
+            "Code": "X"
+        },
+        "El Oro": {
+            "Code": "O"
+        },
+        "Esmeraldas": {
+            "Code": "E"
+        },
+        "Galápagos": {
+            "Code": "W"
+        },
+        "Guayas": {
+            "Code": "G"
+        },
+        "Imbabura": {
+            "Code": "I"
+        },
+        "Loja": {
+            "Code": "L"
+        },
+        "Los Ríos": {
+            "Code": "R"
+        },
+        "Manabí": {
+            "Code": "M"
+        },
+        "Morona-Santiago": {
+            "Code": "S"
+        },
+        "Napo": {
+            "Code": "N"
+        },
+        "Orellana": {
+            "Code": "D"
+        },
+        "Pastaza": {
+            "Code": "Y"
+        },
+        "Pichincha": {
+            "Code": "P"
+        },
+        "Santa Elena": {
+            "Code": "SE"
+        },
+        "Santo Domingo de los Tsáchilas": {
+            "Code": "SD"
+        },
+        "Sucumbíos": {
+            "Code": "U"
+        },
+        "Tungurahua": {
+            "Code": "T"
+        },
+        "Zamora-Chinchipe": {
+            "Code": "Z"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "EC",
+        "Code2": "ECU"
+    },
+    "Region": "Americas",
+    "Sub Region": "South America",
+    "Currency": {
+        "Code": "USD",
+        "Name": "United States dollar",
+        "Symbol": "$"
+    },
+    "Languages": {
+        "Code": "es",
+        "Native Name": "Spanish"
+    },
+    "Dialing Code": "+593",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/ecu.svg"
+}

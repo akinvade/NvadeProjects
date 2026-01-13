@@ -1,0 +1,28 @@
+{
+    "Name": "Sint Maarten",
+    "Capital": "Philipsburg",
+    "States": {},
+    "ShortCodes": {
+        "Code1": "SX",
+        "Code2": "SXM"
+    },
+    "Region": "Americas",
+    "Sub Region": "Caribbean",
+    "Currency": {
+        "Code": "",
+        "Name": "",
+        "Symbol": ""
+    },
+    "Languages": {
+        "Code": "",
+        "Native Name": "",
+        "Name": "",
+        "ISO": ""
+    },
+    "Dialing Code": "+1-721",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": ""
+}

@@ -1,0 +1,57 @@
+{
+    "Name": "Suriname",
+    "Capital": "Paramaribo",
+    "States": {
+        "Brokopondo": {
+            "Code": "BR"
+        },
+        "Commewijne": {
+            "Code": "CM"
+        },
+        "Coronie": {
+            "Code": "CR"
+        },
+        "Marowijne": {
+            "Code": "MA"
+        },
+        "Nickerie": {
+            "Code": "NI"
+        },
+        "Para": {
+            "Code": "PR"
+        },
+        "Paramaribo": {
+            "Code": "PM"
+        },
+        "Saramacca": {
+            "Code": "SA"
+        },
+        "Sipaliwini": {
+            "Code": "SI"
+        },
+        "Wanica": {
+            "Code": "WA"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "SR",
+        "Code2": "SUR"
+    },
+    "Region": "Americas",
+    "Sub Region": "South America",
+    "Currency": {
+        "Code": "SRD",
+        "Name": "Surinamese dollar",
+        "Symbol": "$"
+    },
+    "Languages": {
+        "Code": "nl",
+        "Native Name": "Dutch"
+    },
+    "Dialing Code": "+597",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/sur.svg"
+}

@@ -1,0 +1,62 @@
+{
+    "Name": "Democratic Republic of the Congo",
+    "Capital": "Kinshasa",
+    "States": {
+        "Bandundu": {
+            "Code": "BN"
+        },
+        "Bas-Congo": {
+            "Code": "BC"
+        },
+        "Kasai-Occidental": {
+            "Code": "KW"
+        },
+        "Kasai-Oriental": {
+            "Code": "KE"
+        },
+        "Katanga": {
+            "Code": "KA"
+        },
+        "Kinshasa": {
+            "Code": "KN"
+        },
+        "Maniema": {
+            "Code": "MA"
+        },
+        "Nord-Kivu": {
+            "Code": "NK"
+        },
+        "Orientale": {
+            "Code": "OR"
+        },
+        "Sud-Kivu": {
+            "Code": "SK"
+        },
+        "Équateur": {
+            "Code": "EQ"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "CD",
+        "Code2": "COD"
+    },
+    "Region": "Africa",
+    "Sub Region": "Middle Africa",
+    "Currency": {
+        "Code": "",
+        "Name": "",
+        "Symbol": ""
+    },
+    "Languages": {
+        "Code": "",
+        "Native Name": "",
+        "Name": "",
+        "ISO": ""
+    },
+    "Dialing Code": "+243",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": ""
+}

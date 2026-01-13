@@ -1,0 +1,81 @@
+{
+    "Name": "Somalia",
+    "Capital": "Mogadishu",
+    "States": {
+        "Awdal": {
+            "Code": "AW"
+        },
+        "Bakool": {
+            "Code": "BK"
+        },
+        "Banaadir": {
+            "Code": "BN"
+        },
+        "Bari": {
+            "Code": "BR"
+        },
+        "Bay": {
+            "Code": "BY"
+        },
+        "Galguduud": {
+            "Code": "GA"
+        },
+        "Gedo": {
+            "Code": "GE"
+        },
+        "Hiiraan": {
+            "Code": "HI"
+        },
+        "Jubbada Dhexe": {
+            "Code": "JD"
+        },
+        "Jubbada Hoose": {
+            "Code": "JH"
+        },
+        "Mudug": {
+            "Code": "MU"
+        },
+        "Nugaal": {
+            "Code": "NU"
+        },
+        "Sanaag": {
+            "Code": "SA"
+        },
+        "Shabeellaha Dhexe": {
+            "Code": "SD"
+        },
+        "Shabeellaha Hoose": {
+            "Code": "SH"
+        },
+        "Sool": {
+            "Code": "SO"
+        },
+        "Togdheer": {
+            "Code": "TO"
+        },
+        "Woqooyi Galbeed": {
+            "Code": "WO"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "SO",
+        "Code2": "SOM"
+    },
+    "Region": "Africa",
+    "Sub Region": "Eastern Africa",
+    "Currency": {
+        "Code": "SOS",
+        "Name": "Somali shilling",
+        "Symbol": "Sh"
+    },
+    "Languages": {
+        "Code": "ar",
+        "Native Name": "Arabic"
+    },
+    "Dialing Code": "+252",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/som.svg"
+}

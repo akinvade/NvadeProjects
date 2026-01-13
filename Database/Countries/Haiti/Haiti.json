@@ -1,0 +1,57 @@
+{
+    "Name": "Haiti",
+    "Capital": "Port-au-Prince",
+    "States": {
+        "Artibonite": {
+            "Code": "AR"
+        },
+        "Centre": {
+            "Code": "CE"
+        },
+        "Grande-Anse": {
+            "Code": "GA"
+        },
+        "Nippes": {
+            "Code": "NI"
+        },
+        "Nord": {
+            "Code": "ND"
+        },
+        "Nord-Est": {
+            "Code": "NE"
+        },
+        "Nord-Ouest": {
+            "Code": "NO"
+        },
+        "Ouest": {
+            "Code": "OU"
+        },
+        "Sud": {
+            "Code": "SD"
+        },
+        "Sud-Est": {
+            "Code": "SE"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "HT",
+        "Code2": "HTI"
+    },
+    "Region": "Americas",
+    "Sub Region": "Caribbean",
+    "Currency": {
+        "Code": "HTG",
+        "Name": "Haitian gourde",
+        "Symbol": "G"
+    },
+    "Languages": {
+        "Code": "fr",
+        "Native Name": "French"
+    },
+    "Dialing Code": "+509",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/hti.svg"
+}

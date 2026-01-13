@@ -1,0 +1,81 @@
+{
+    "Name": "Honduras",
+    "Capital": "Tegucigalpa",
+    "States": {
+        "Atlántida": {
+            "Code": "AT"
+        },
+        "Choluteca": {
+            "Code": "CH"
+        },
+        "Colón": {
+            "Code": "CL"
+        },
+        "Comayagua": {
+            "Code": "CM"
+        },
+        "Copán": {
+            "Code": "CP"
+        },
+        "Cortés": {
+            "Code": "CR"
+        },
+        "El Paraíso": {
+            "Code": "EP"
+        },
+        "Francisco Morazán": {
+            "Code": "FM"
+        },
+        "Gracias a Dios": {
+            "Code": "GD"
+        },
+        "Intibucá": {
+            "Code": "IN"
+        },
+        "Islas de la Bahía": {
+            "Code": "IB"
+        },
+        "La Paz": {
+            "Code": "LP"
+        },
+        "Lempira": {
+            "Code": "LE"
+        },
+        "Ocotepeque": {
+            "Code": "OC"
+        },
+        "Olancho": {
+            "Code": "OL"
+        },
+        "Santa Bárbara": {
+            "Code": "SB"
+        },
+        "Valle": {
+            "Code": "VA"
+        },
+        "Yoro": {
+            "Code": "YO"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "HN",
+        "Code2": "HND"
+    },
+    "Region": "Americas",
+    "Sub Region": "Central America",
+    "Currency": {
+        "Code": "HNL",
+        "Name": "Honduran lempira",
+        "Symbol": "L"
+    },
+    "Languages": {
+        "Code": "es",
+        "Native Name": "Spanish"
+    },
+    "Dialing Code": "+504",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/hnd.svg"
+}

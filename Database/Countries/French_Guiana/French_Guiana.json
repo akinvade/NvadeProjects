@@ -1,0 +1,26 @@
+{
+    "Name": "French Guiana",
+    "Capital": "Cayenne",
+    "States": {},
+    "ShortCodes": {
+        "Code1": "GF",
+        "Code2": "GUF"
+    },
+    "Region": "Americas",
+    "Sub Region": "South America",
+    "Currency": {
+        "Code": "EUR",
+        "Name": "Euro",
+        "Symbol": "€"
+    },
+    "Languages": {
+        "Code": "fr",
+        "Native Name": "French"
+    },
+    "Dialing Code": "+594",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/guf.svg"
+}

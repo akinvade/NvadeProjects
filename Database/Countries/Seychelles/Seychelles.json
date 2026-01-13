@@ -1,0 +1,102 @@
+{
+    "Name": "Seychelles",
+    "Capital": "Victoria",
+    "States": {
+        "Anse Boileau": {
+            "Code": "02"
+        },
+        "Anse Etoile": {
+            "Code": "03"
+        },
+        "Anse Royale": {
+            "Code": "05"
+        },
+        "Anse aux Pins": {
+            "Code": "01"
+        },
+        "Au Cap": {
+            "Code": "04"
+        },
+        "Baie Lazare": {
+            "Code": "06"
+        },
+        "Baie Sainte Anne": {
+            "Code": "07"
+        },
+        "Beau Vallon": {
+            "Code": "08"
+        },
+        "Bel Air": {
+            "Code": "09"
+        },
+        "Bel Ombre": {
+            "Code": "10"
+        },
+        "Cascade": {
+            "Code": "11"
+        },
+        "English River": {
+            "Code": "16"
+        },
+        "Glacis": {
+            "Code": "12"
+        },
+        "Grand Anse Mahe": {
+            "Code": "13"
+        },
+        "Grand Anse Praslin": {
+            "Code": "14"
+        },
+        "La Digue": {
+            "Code": "15"
+        },
+        "Les Mamelles": {
+            "Code": "24"
+        },
+        "Mont Buxton": {
+            "Code": "17"
+        },
+        "Mont Fleuri": {
+            "Code": "18"
+        },
+        "Plaisance": {
+            "Code": "19"
+        },
+        "Pointe Larue": {
+            "Code": "20"
+        },
+        "Port Glaud": {
+            "Code": "21"
+        },
+        "Roche Caiman": {
+            "Code": "25"
+        },
+        "Saint Louis": {
+            "Code": "22"
+        },
+        "Takamaka": {
+            "Code": "23"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "SC",
+        "Code2": "SYC"
+    },
+    "Region": "Africa",
+    "Sub Region": "Eastern Africa",
+    "Currency": {
+        "Code": "SCR",
+        "Name": "Seychellois rupee",
+        "Symbol": "₨"
+    },
+    "Languages": {
+        "Code": "fr",
+        "Native Name": "French"
+    },
+    "Dialing Code": "+248",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/syc.svg"
+}

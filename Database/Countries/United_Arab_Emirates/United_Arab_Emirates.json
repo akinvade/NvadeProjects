@@ -1,0 +1,48 @@
+{
+    "Name": "United Arab Emirates",
+    "Capital": "Abu Dhabi",
+    "States": {
+        "'Ajmān": {
+            "Code": "AJ"
+        },
+        "Abū Z̧aby": {
+            "Code": "AZ"
+        },
+        "Al Fujayrah": {
+            "Code": "FU"
+        },
+        "Ash Shāriqah": {
+            "Code": "SH"
+        },
+        "Dubayy": {
+            "Code": "DU"
+        },
+        "Ra's al Khaymah": {
+            "Code": "RK"
+        },
+        "Umm al Qaywayn": {
+            "Code": "UQ"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "AE",
+        "Code2": "ARE"
+    },
+    "Region": "Asia",
+    "Sub Region": "Western Asia",
+    "Currency": {
+        "Code": "AED",
+        "Name": "United Arab Emirates dirham",
+        "Symbol": "د.إ"
+    },
+    "Languages": {
+        "Code": "ar",
+        "Native Name": "Arabic"
+    },
+    "Dialing Code": "+971",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/are.svg"
+}

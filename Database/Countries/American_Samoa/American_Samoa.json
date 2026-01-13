@@ -1,0 +1,26 @@
+{
+    "Name": "American Samoa",
+    "Capital": "Pago Pago",
+    "States": {},
+    "ShortCodes": {
+        "Code1": "AS",
+        "Code2": "ASM"
+    },
+    "Region": "Oceania",
+    "Sub Region": "Polynesia",
+    "Currency": {
+        "Code": "USD",
+        "Name": "United State Dollar",
+        "Symbol": "$"
+    },
+    "Languages": {
+        "Code": "en",
+        "Native Name": "English"
+    },
+    "Dialing Code": "+1",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/asm.svg"
+}

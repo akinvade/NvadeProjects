@@ -1,0 +1,38 @@
+{
+    "Name": "Saint Helena",
+    "Capital": "Jamestown",
+    "States": {
+        "Ascension": {
+            "Code": "AC"
+        },
+        "Saint Helena": {
+            "Code": "HL"
+        },
+        "Tristan da Cunha": {
+            "Code": "TA"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "SH",
+        "Code2": "SHN"
+    },
+    "Region": "Africa",
+    "Sub Region": "Western Africa",
+    "Currency": {
+        "Code": "",
+        "Name": "",
+        "Symbol": ""
+    },
+    "Languages": {
+        "Code": "",
+        "Native Name": "",
+        "Name": "",
+        "ISO": ""
+    },
+    "Dialing Code": "+290",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": ""
+}

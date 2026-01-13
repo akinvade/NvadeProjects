@@ -1,0 +1,87 @@
+{
+    "Name": "Italy",
+    "Capital": "Rome",
+    "States": {
+        "Abruzzo": {
+            "Code": "65"
+        },
+        "Basilicata": {
+            "Code": "77"
+        },
+        "Calabria": {
+            "Code": "78"
+        },
+        "Campania": {
+            "Code": "72"
+        },
+        "Emilia-Romagna": {
+            "Code": "45"
+        },
+        "Friuli-Venezia Giulia": {
+            "Code": "36"
+        },
+        "Lazio": {
+            "Code": "62"
+        },
+        "Liguria": {
+            "Code": "42"
+        },
+        "Lombardia": {
+            "Code": "25"
+        },
+        "Marche": {
+            "Code": "57"
+        },
+        "Molise": {
+            "Code": "67"
+        },
+        "Piemonte": {
+            "Code": "21"
+        },
+        "Puglia": {
+            "Code": "75"
+        },
+        "Sardegna": {
+            "Code": "88"
+        },
+        "Sicilia": {
+            "Code": "82"
+        },
+        "Toscana": {
+            "Code": "52"
+        },
+        "Trentino-Alto Adige": {
+            "Code": "32"
+        },
+        "Umbria": {
+            "Code": "55"
+        },
+        "Valle d'Aosta": {
+            "Code": "23"
+        },
+        "Veneto": {
+            "Code": "34"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "IT",
+        "Code2": "ITA"
+    },
+    "Region": "Europe",
+    "Sub Region": "Southern Europe",
+    "Currency": {
+        "Code": "EUR",
+        "Name": "Euro",
+        "Symbol": "€"
+    },
+    "Languages": {
+        "Code": "it",
+        "Native Name": "Italian"
+    },
+    "Dialing Code": "+39",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/ita.svg"
+}

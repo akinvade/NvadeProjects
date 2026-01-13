@@ -1,0 +1,28 @@
+{
+    "Name": "Christmas Island",
+    "Capital": "Flying Fish Cove",
+    "States": {},
+    "ShortCodes": {
+        "Code1": "CX",
+        "Code2": "CXR"
+    },
+    "Region": "Oceania",
+    "Sub Region": "Australia and New Zealand",
+    "Currency": {
+        "Code": "",
+        "Name": "",
+        "Symbol": ""
+    },
+    "Languages": {
+        "Code": "",
+        "Native Name": "",
+        "Name": "",
+        "ISO": ""
+    },
+    "Dialing Code": "+61",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": ""
+}

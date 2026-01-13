@@ -1,0 +1,26 @@
+{
+    "Name": "Bermuda",
+    "Capital": "Hamilton",
+    "States": {},
+    "ShortCodes": {
+        "Code1": "BM",
+        "Code2": "BMU"
+    },
+    "Region": "Americas",
+    "Sub Region": "Northern America",
+    "Currency": {
+        "Code": "BMD",
+        "Name": "Bermudian dollar",
+        "Symbol": "$"
+    },
+    "Languages": {
+        "Code": "en",
+        "Native Name": "English"
+    },
+    "Dialing Code": "+1",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/bmu.svg"
+}

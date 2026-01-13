@@ -1,0 +1,57 @@
+{
+    "Name": "Dominican Republic",
+    "Capital": "Santo Domingo",
+    "States": {
+        "Cibao Nordeste": {
+            "Code": "33"
+        },
+        "Cibao Noroeste": {
+            "Code": "34"
+        },
+        "Cibao Norte": {
+            "Code": "35"
+        },
+        "Cibao Sur": {
+            "Code": "36"
+        },
+        "El Valle": {
+            "Code": "37"
+        },
+        "Enriquillo": {
+            "Code": "38"
+        },
+        "Higuamo": {
+            "Code": "39"
+        },
+        "Ozama": {
+            "Code": "40"
+        },
+        "Valdesia": {
+            "Code": "41"
+        },
+        "Yuma": {
+            "Code": "42"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "DO",
+        "Code2": "DOM"
+    },
+    "Region": "Americas",
+    "Sub Region": "Caribbean",
+    "Currency": {
+        "Code": "DOP",
+        "Name": "Dominican peso",
+        "Symbol": "$"
+    },
+    "Languages": {
+        "Code": "es",
+        "Native Name": "Spanish"
+    },
+    "Dialing Code": "+1",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/dom.svg"
+}

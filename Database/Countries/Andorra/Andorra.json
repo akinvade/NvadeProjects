@@ -1,0 +1,48 @@
+{
+    "Name": "Andorra",
+    "Capital": "Andorra la Vella",
+    "States": {
+        "Andorra la Vella": {
+            "Code": "07"
+        },
+        "Canillo": {
+            "Code": "02"
+        },
+        "Encamp": {
+            "Code": "03"
+        },
+        "Escaldes-Engordany": {
+            "Code": "08"
+        },
+        "La Massana": {
+            "Code": "04"
+        },
+        "Ordino": {
+            "Code": "05"
+        },
+        "Sant Julià de Lòria": {
+            "Code": "06"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "AD",
+        "Code2": "AND"
+    },
+    "Region": "Europe",
+    "Sub Region": "Southern Europe",
+    "Currency": {
+        "Code": "EUR",
+        "Name": "Euro",
+        "Symbol": "€"
+    },
+    "Languages": {
+        "Code": "ca",
+        "Native Name": "Catalan"
+    },
+    "Dialing Code": "+376",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/and.svg"
+}

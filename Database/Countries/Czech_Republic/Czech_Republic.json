@@ -1,0 +1,69 @@
+{
+    "Name": "Czech Republic",
+    "Capital": "Prague",
+    "States": {
+        "Jihomoravský kraj": {
+            "Code": "JM"
+        },
+        "Jihočeský kraj": {
+            "Code": "JC"
+        },
+        "Karlovarský kraj": {
+            "Code": "KA"
+        },
+        "Královéhradecký kraj": {
+            "Code": "KR"
+        },
+        "Liberecký kraj": {
+            "Code": "LI"
+        },
+        "Moravskoslezský kraj": {
+            "Code": "MO"
+        },
+        "Olomoucký kraj": {
+            "Code": "OL"
+        },
+        "Pardubický kraj": {
+            "Code": "PA"
+        },
+        "Plzeňský kraj": {
+            "Code": "PL"
+        },
+        "Praha, hlavní město": {
+            "Code": "PR"
+        },
+        "Středočeský kraj": {
+            "Code": "ST"
+        },
+        "Vysočina": {
+            "Code": "VY"
+        },
+        "Zlínský kraj": {
+            "Code": "ZL"
+        },
+        "Ústecký kraj": {
+            "Code": "US"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "CZ",
+        "Code2": "CZE"
+    },
+    "Region": "Europe",
+    "Sub Region": "Eastern Europe",
+    "Currency": {
+        "Code": "CZK",
+        "Name": "Czech koruna",
+        "Symbol": "Kč"
+    },
+    "Languages": {
+        "Code": "cs",
+        "Native Name": "Czech"
+    },
+    "Dialing Code": "+420",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/cze.svg"
+}

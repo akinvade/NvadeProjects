@@ -1,0 +1,30 @@
+{
+    "Name": "Azerbaijan",
+    "Capital": "Baku",
+    "States": {
+        "Naxçıvan": {
+            "Code": "NX"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "AZ",
+        "Code2": "AZE"
+    },
+    "Region": "Asia",
+    "Sub Region": "Western Asia",
+    "Currency": {
+        "Code": "AZN",
+        "Name": "Azerbaijani manat",
+        "Symbol": null
+    },
+    "Languages": {
+        "Code": "az",
+        "Native Name": "Azerbaijani"
+    },
+    "Dialing Code": "+994",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/aze.svg"
+}

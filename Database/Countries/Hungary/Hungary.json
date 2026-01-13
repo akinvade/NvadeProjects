@@ -1,0 +1,153 @@
+{
+    "Name": "Hungary",
+    "Capital": "Budapest",
+    "States": {
+        "Baranya": {
+            "Code": "BA"
+        },
+        "Borsod-Abaúj-Zemplén": {
+            "Code": "BZ"
+        },
+        "Budapest": {
+            "Code": "BU"
+        },
+        "Bács-Kiskun": {
+            "Code": "BK"
+        },
+        "Békés": {
+            "Code": "BE"
+        },
+        "Békéscsaba": {
+            "Code": "BC"
+        },
+        "Csongrád": {
+            "Code": "CS"
+        },
+        "Debrecen": {
+            "Code": "DE"
+        },
+        "Dunaújváros": {
+            "Code": "DU"
+        },
+        "Eger": {
+            "Code": "EG"
+        },
+        "Fejér": {
+            "Code": "FE"
+        },
+        "Győr": {
+            "Code": "GY"
+        },
+        "Győr-Moson-Sopron": {
+            "Code": "GS"
+        },
+        "Hajdú-Bihar": {
+            "Code": "HB"
+        },
+        "Heves": {
+            "Code": "HE"
+        },
+        "Hódmezővásárhely": {
+            "Code": "HV"
+        },
+        "Jász-Nagykun-Szolnok": {
+            "Code": "JN"
+        },
+        "Kaposvár": {
+            "Code": "KV"
+        },
+        "Kecskemét": {
+            "Code": "KM"
+        },
+        "Komárom-Esztergom": {
+            "Code": "KE"
+        },
+        "Miskolc": {
+            "Code": "MI"
+        },
+        "Nagykanizsa": {
+            "Code": "NK"
+        },
+        "Nyíregyháza": {
+            "Code": "NY"
+        },
+        "Nógrád": {
+            "Code": "NO"
+        },
+        "Pest": {
+            "Code": "PE"
+        },
+        "Pécs": {
+            "Code": "PS"
+        },
+        "Salgótarján": {
+            "Code": "ST"
+        },
+        "Somogy": {
+            "Code": "SO"
+        },
+        "Sopron": {
+            "Code": "SN"
+        },
+        "Szabolcs-Szatmár-Bereg": {
+            "Code": "SZ"
+        },
+        "Szeged": {
+            "Code": "SD"
+        },
+        "Szekszárd": {
+            "Code": "SS"
+        },
+        "Szolnok": {
+            "Code": "SK"
+        },
+        "Szombathely": {
+            "Code": "SH"
+        },
+        "Székesfehérvár": {
+            "Code": "SF"
+        },
+        "Tatabánya": {
+            "Code": "TB"
+        },
+        "Tolna": {
+            "Code": "TO"
+        },
+        "Vas": {
+            "Code": "VA"
+        },
+        "Veszprém": {
+            "Code": "VM"
+        },
+        "Zala": {
+            "Code": "ZA"
+        },
+        "Zalaegerszeg": {
+            "Code": "ZE"
+        },
+        "Érd": {
+            "Code": "ER"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "HU",
+        "Code2": "HUN"
+    },
+    "Region": "Europe",
+    "Sub Region": "Eastern Europe",
+    "Currency": {
+        "Code": "HUF",
+        "Name": "Hungarian forint",
+        "Symbol": "Ft"
+    },
+    "Languages": {
+        "Code": "hu",
+        "Native Name": "Hungarian"
+    },
+    "Dialing Code": "+36",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/hun.svg"
+}

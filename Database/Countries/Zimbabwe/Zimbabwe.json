@@ -1,0 +1,59 @@
+{
+    "Name": "Zimbabwe",
+    "Capital": "Harare",
+    "States": {
+        "Bulawayo": {
+            "Code": "BU"
+        },
+        "Harare": {
+            "Code": "HA"
+        },
+        "Manicaland": {
+            "Code": "MA"
+        },
+        "Mashonaland Central": {
+            "Code": "MC"
+        },
+        "Mashonaland East": {
+            "Code": "ME"
+        },
+        "Mashonaland West": {
+            "Code": "MW"
+        },
+        "Masvingo": {
+            "Code": "MV"
+        },
+        "Matabeleland North": {
+            "Code": "MN"
+        },
+        "Matabeleland South": {
+            "Code": "MS"
+        },
+        "Midlands": {
+            "Code": "MI"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "ZW",
+        "Code2": "ZWE"
+    },
+    "Region": "Africa",
+    "Sub Region": "Eastern Africa",
+    "Currency": {
+        "Code": "BWP",
+        "Name": "Botswana pula",
+        "Symbol": "P"
+    },
+    "Languages": {
+        "Code": "en",
+        "Native Name": "English",
+        "Name": "English",
+        "ISO": "eng"
+    },
+    "Dialing Code": "+263",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/zwe.svg"
+}

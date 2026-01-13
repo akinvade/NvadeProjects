@@ -1,0 +1,746 @@
+{
+    "Name": "United Kingdom",
+    "Capital": "London",
+    "States": {
+        "Barking and Dagenham": {
+            "Code": "BDG"
+        },
+        "Barnet": {
+            "Code": "BNE"
+        },
+        "Bexley": {
+            "Code": "BEX"
+        },
+        "Brent": {
+            "Code": "BEN"
+        },
+        "Bromley": {
+            "Code": "BRY"
+        },
+        "Camden": {
+            "Code": "CMD"
+        },
+        "Croydon": {
+            "Code": "CRY"
+        },
+        "Ealing": {
+            "Code": "EAL"
+        },
+        "Enfield": {
+            "Code": "ENF"
+        },
+        "Greenwich": {
+            "Code": "GRE"
+        },
+        "Hackney": {
+            "Code": "HCK"
+        },
+        "Hammersmith and Fulham": {
+            "Code": "HMF"
+        },
+        "Haringey": {
+            "Code": "HRY"
+        },
+        "Harrow": {
+            "Code": "HRW"
+        },
+        "Havering": {
+            "Code": "HAV"
+        },
+        "Hillingdon": {
+            "Code": "HIL"
+        },
+        "Hounslow": {
+            "Code": "HNS"
+        },
+        "Islington": {
+            "Code": "ISL"
+        },
+        "Kensington and Chelsea": {
+            "Code": "KEC"
+        },
+        "Kingston upon Thames": {
+            "Code": "KTT"
+        },
+        "Lambeth": {
+            "Code": "LBH"
+        },
+        "Lewisham": {
+            "Code": "LEW"
+        },
+        "Merton": {
+            "Code": "MRT"
+        },
+        "Newham": {
+            "Code": "NWM"
+        },
+        "Redbridge": {
+            "Code": "RDB"
+        },
+        "Richmond upon Thames": {
+            "Code": "RIC"
+        },
+        "Southwark": {
+            "Code": "SWK"
+        },
+        "Sutton": {
+            "Code": "STN"
+        },
+        "Tower Hamlets": {
+            "Code": "TWH"
+        },
+        "Waltham Forest": {
+            "Code": "WFT"
+        },
+        "Wandsworth": {
+            "Code": "WND"
+        },
+        "Westminster": {
+            "Code": "WSM"
+        },
+        "England and Wales": {
+            "Code": "EAW"
+        },
+        "Great Britain": {
+            "Code": "GBN"
+        },
+        "United Kingdom": {
+            "Code": "UKM"
+        },
+        "London, City of": {
+            "Code": "LND"
+        },
+        "Aberdeen City": {
+            "Code": "ABE"
+        },
+        "Aberdeenshire": {
+            "Code": "ABD"
+        },
+        "Angus": {
+            "Code": "ANS"
+        },
+        "Argyll and Bute": {
+            "Code": "AGB"
+        },
+        "Clackmannanshire": {
+            "Code": "CLK"
+        },
+        "Dumfries and Galloway": {
+            "Code": "DGY"
+        },
+        "Dundee City": {
+            "Code": "DND"
+        },
+        "East Ayrshire": {
+            "Code": "EAY"
+        },
+        "East Dunbartonshire": {
+            "Code": "EDU"
+        },
+        "East Lothian": {
+            "Code": "ELN"
+        },
+        "East Renfrewshire": {
+            "Code": "ERW"
+        },
+        "Edinburgh, City of": {
+            "Code": "EDH"
+        },
+        "Eilean Siar": {
+            "Code": "ELS"
+        },
+        "Falkirk": {
+            "Code": "FAL"
+        },
+        "Fife": {
+            "Code": "FIF"
+        },
+        "Glasgow City": {
+            "Code": "GLG"
+        },
+        "Highland": {
+            "Code": "HLD"
+        },
+        "Inverclyde": {
+            "Code": "IVC"
+        },
+        "Midlothian": {
+            "Code": "MLN"
+        },
+        "Moray": {
+            "Code": "MRY"
+        },
+        "North Ayrshire": {
+            "Code": "NAY"
+        },
+        "North Lanarkshire": {
+            "Code": "NLK"
+        },
+        "Orkney Islands": {
+            "Code": "ORK"
+        },
+        "Perth and Kinross": {
+            "Code": "PKN"
+        },
+        "Renfrewshire": {
+            "Code": "RFW"
+        },
+        "Scottish Borders, The": {
+            "Code": "SCB"
+        },
+        "Shetland Islands": {
+            "Code": "ZET"
+        },
+        "South Ayrshire": {
+            "Code": "SAY"
+        },
+        "South Lanarkshire": {
+            "Code": "SLK"
+        },
+        "Stirling": {
+            "Code": "STG"
+        },
+        "West Dunbartonshire": {
+            "Code": "WDU"
+        },
+        "West Lothian": {
+            "Code": "WLN"
+        },
+        "England": {
+            "Code": "ENG"
+        },
+        "Scotland": {
+            "Code": "SCT"
+        },
+        "Wales": {
+            "Code": "WLS"
+        },
+        "Antrim": {
+            "Code": "ANT"
+        },
+        "Ards": {
+            "Code": "ARD"
+        },
+        "Armagh": {
+            "Code": "ARM"
+        },
+        "Ballymena": {
+            "Code": "BLA"
+        },
+        "Ballymoney": {
+            "Code": "BLY"
+        },
+        "Banbridge": {
+            "Code": "BNB"
+        },
+        "Belfast": {
+            "Code": "BFS"
+        },
+        "Carrickfergus": {
+            "Code": "CKF"
+        },
+        "Castlereagh": {
+            "Code": "CSR"
+        },
+        "Coleraine": {
+            "Code": "CLR"
+        },
+        "Cookstown": {
+            "Code": "CKT"
+        },
+        "Craigavon": {
+            "Code": "CGV"
+        },
+        "Derry": {
+            "Code": "DRY"
+        },
+        "Down": {
+            "Code": "DOW"
+        },
+        "Dungannon and South Tyrone": {
+            "Code": "DGN"
+        },
+        "Fermanagh": {
+            "Code": "FER"
+        },
+        "Larne": {
+            "Code": "LRN"
+        },
+        "Limavady": {
+            "Code": "LMV"
+        },
+        "Lisburn": {
+            "Code": "LSB"
+        },
+        "Magherafelt": {
+            "Code": "MFT"
+        },
+        "Moyle": {
+            "Code": "MYL"
+        },
+        "Newry and Mourne District": {
+            "Code": "NYM"
+        },
+        "Newtownabbey": {
+            "Code": "NTA"
+        },
+        "North Down": {
+            "Code": "NDN"
+        },
+        "Omagh": {
+            "Code": "OMH"
+        },
+        "Strabane": {
+            "Code": "STB"
+        },
+        "Barnsley": {
+            "Code": "BNS"
+        },
+        "Birmingham": {
+            "Code": "BIR"
+        },
+        "Bolton": {
+            "Code": "BOL"
+        },
+        "Bradford": {
+            "Code": "BRD"
+        },
+        "Bury": {
+            "Code": "BUR"
+        },
+        "Calderdale": {
+            "Code": "CLD"
+        },
+        "Coventry": {
+            "Code": "COV"
+        },
+        "Doncaster": {
+            "Code": "DNC"
+        },
+        "Dudley": {
+            "Code": "DUD"
+        },
+        "Gateshead": {
+            "Code": "GAT"
+        },
+        "Kirklees": {
+            "Code": "KIR"
+        },
+        "Knowsley": {
+            "Code": "KWL"
+        },
+        "Leeds": {
+            "Code": "LDS"
+        },
+        "Liverpool": {
+            "Code": "LIV"
+        },
+        "Manchester": {
+            "Code": "MAN"
+        },
+        "Newcastle upon Tyne": {
+            "Code": "NET"
+        },
+        "North Tyneside": {
+            "Code": "NTY"
+        },
+        "Oldham": {
+            "Code": "OLD"
+        },
+        "Rochdale": {
+            "Code": "RCH"
+        },
+        "Rotherham": {
+            "Code": "ROT"
+        },
+        "Salford": {
+            "Code": "SLF"
+        },
+        "Sandwell": {
+            "Code": "SAW"
+        },
+        "Sefton": {
+            "Code": "SFT"
+        },
+        "Sheffield": {
+            "Code": "SHF"
+        },
+        "Solihull": {
+            "Code": "SOL"
+        },
+        "South Tyneside": {
+            "Code": "STY"
+        },
+        "St. Helens": {
+            "Code": "SHN"
+        },
+        "Stockport": {
+            "Code": "SKP"
+        },
+        "Sunderland": {
+            "Code": "SND"
+        },
+        "Tameside": {
+            "Code": "TAM"
+        },
+        "Trafford": {
+            "Code": "TRF"
+        },
+        "Wakefield": {
+            "Code": "WKF"
+        },
+        "Walsall": {
+            "Code": "WLL"
+        },
+        "Wigan": {
+            "Code": "WGN"
+        },
+        "Wirral": {
+            "Code": "WRL"
+        },
+        "Wolverhampton": {
+            "Code": "WLV"
+        },
+        "Northern Ireland": {
+            "Code": "NIR"
+        },
+        "Buckinghamshire": {
+            "Code": "BKM"
+        },
+        "Cambridgeshire": {
+            "Code": "CAM"
+        },
+        "Cumbria": {
+            "Code": "CMA"
+        },
+        "Derbyshire": {
+            "Code": "DBY"
+        },
+        "Devon": {
+            "Code": "DEV"
+        },
+        "Dorset": {
+            "Code": "DOR"
+        },
+        "East Sussex": {
+            "Code": "ESX"
+        },
+        "Essex": {
+            "Code": "ESS"
+        },
+        "Gloucestershire": {
+            "Code": "GLS"
+        },
+        "Hampshire": {
+            "Code": "HAM"
+        },
+        "Hertfordshire": {
+            "Code": "HRT"
+        },
+        "Kent": {
+            "Code": "KEN"
+        },
+        "Lancashire": {
+            "Code": "LAN"
+        },
+        "Leicestershire": {
+            "Code": "LEC"
+        },
+        "Lincolnshire": {
+            "Code": "LIN"
+        },
+        "Norfolk": {
+            "Code": "NFK"
+        },
+        "North Yorkshire": {
+            "Code": "NYK"
+        },
+        "Northamptonshire": {
+            "Code": "NTH"
+        },
+        "Nottinghamshire": {
+            "Code": "NTT"
+        },
+        "Oxfordshire": {
+            "Code": "OXF"
+        },
+        "Somerset": {
+            "Code": "SOM"
+        },
+        "Staffordshire": {
+            "Code": "STS"
+        },
+        "Suffolk": {
+            "Code": "SFK"
+        },
+        "Surrey": {
+            "Code": "SRY"
+        },
+        "Warwickshire": {
+            "Code": "WAR"
+        },
+        "West Sussex": {
+            "Code": "WSX"
+        },
+        "Worcestershire": {
+            "Code": "WOR"
+        },
+        "Bath and North East Somerset": {
+            "Code": "BAS"
+        },
+        "Bedford": {
+            "Code": "BDF"
+        },
+        "Blackburn with Darwen": {
+            "Code": "BBD"
+        },
+        "Blackpool": {
+            "Code": "BPL"
+        },
+        "Blaenau Gwent": {
+            "Code": "BGW"
+        },
+        "Bournemouth": {
+            "Code": "BMH"
+        },
+        "Bracknell Forest": {
+            "Code": "BRC"
+        },
+        "Bridgend": {
+            "Code": "BGE"
+        },
+        "Brighton and Hove": {
+            "Code": "BNH"
+        },
+        "Bristol, City of": {
+            "Code": "BST"
+        },
+        "Caerphilly": {
+            "Code": "CAY"
+        },
+        "Cardiff": {
+            "Code": "CRF"
+        },
+        "Carmarthenshire": {
+            "Code": "CMN"
+        },
+        "Central Bedfordshire": {
+            "Code": "CBF"
+        },
+        "Ceredigion": {
+            "Code": "CGN"
+        },
+        "Cheshire East": {
+            "Code": "CHE"
+        },
+        "Cheshire West and Chester": {
+            "Code": "CHW"
+        },
+        "Conwy": {
+            "Code": "CWY"
+        },
+        "Cornwall": {
+            "Code": "CON"
+        },
+        "Darlington": {
+            "Code": "DAL"
+        },
+        "Denbighshire": {
+            "Code": "DEN"
+        },
+        "Derby": {
+            "Code": "DER"
+        },
+        "Durham, County": {
+            "Code": "DUR"
+        },
+        "East Riding of Yorkshire": {
+            "Code": "ERY"
+        },
+        "Flintshire": {
+            "Code": "FLN"
+        },
+        "Gwynedd": {
+            "Code": "GWN"
+        },
+        "Halton": {
+            "Code": "HAL"
+        },
+        "Hartlepool": {
+            "Code": "HPL"
+        },
+        "Herefordshire": {
+            "Code": "HEF"
+        },
+        "Isle of Anglesey": {
+            "Code": "AGY"
+        },
+        "Isle of Wight": {
+            "Code": "IOW"
+        },
+        "Isles of Scilly": {
+            "Code": "IOS"
+        },
+        "Kingston upon Hull": {
+            "Code": "KHL"
+        },
+        "Leicester": {
+            "Code": "LCE"
+        },
+        "Luton": {
+            "Code": "LUT"
+        },
+        "Medway": {
+            "Code": "MDW"
+        },
+        "Merthyr Tydfil": {
+            "Code": "MTY"
+        },
+        "Middlesbrough": {
+            "Code": "MDB"
+        },
+        "Milton Keynes": {
+            "Code": "MIK"
+        },
+        "Monmouthshire": {
+            "Code": "MON"
+        },
+        "Neath Port Talbot": {
+            "Code": "NTL"
+        },
+        "Newport": {
+            "Code": "NWP"
+        },
+        "North East Lincolnshire": {
+            "Code": "NEL"
+        },
+        "North Lincolnshire": {
+            "Code": "NLN"
+        },
+        "North Somerset": {
+            "Code": "NSM"
+        },
+        "Northumberland": {
+            "Code": "NBL"
+        },
+        "Nottingham": {
+            "Code": "NGM"
+        },
+        "Pembrokeshire": {
+            "Code": "PEM"
+        },
+        "Peterborough": {
+            "Code": "PTE"
+        },
+        "Plymouth": {
+            "Code": "PLY"
+        },
+        "Poole": {
+            "Code": "POL"
+        },
+        "Portsmouth": {
+            "Code": "POR"
+        },
+        "Powys": {
+            "Code": "POW"
+        },
+        "Reading": {
+            "Code": "RDG"
+        },
+        "Redcar and Cleveland": {
+            "Code": "RCC"
+        },
+        "Rhondda, Cynon, Taff": {
+            "Code": "RCT"
+        },
+        "Rutland": {
+            "Code": "RUT"
+        },
+        "Shropshire": {
+            "Code": "SHR"
+        },
+        "Slough": {
+            "Code": "SLG"
+        },
+        "South Gloucestershire": {
+            "Code": "SGC"
+        },
+        "Southampton": {
+            "Code": "STH"
+        },
+        "Southend-on-Sea": {
+            "Code": "SOS"
+        },
+        "Stockton-on-Tees": {
+            "Code": "STT"
+        },
+        "Stoke-on-Trent": {
+            "Code": "STE"
+        },
+        "Swansea": {
+            "Code": "SWA"
+        },
+        "Swindon": {
+            "Code": "SWD"
+        },
+        "Telford and Wrekin": {
+            "Code": "TFW"
+        },
+        "Thurrock": {
+            "Code": "THR"
+        },
+        "Torbay": {
+            "Code": "TOB"
+        },
+        "Torfaen": {
+            "Code": "TOF"
+        },
+        "Vale of Glamorgan, The": {
+            "Code": "VGL"
+        },
+        "Warrington": {
+            "Code": "WRT"
+        },
+        "West Berkshire": {
+            "Code": "WBK"
+        },
+        "Wiltshire": {
+            "Code": "WIL"
+        },
+        "Windsor and Maidenhead": {
+            "Code": "WNM"
+        },
+        "Wokingham": {
+            "Code": "WOK"
+        },
+        "Wrexham": {
+            "Code": "WRX"
+        },
+        "York": {
+            "Code": "YOR"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "GB",
+        "Code2": "GBR"
+    },
+    "Region": "Europe",
+    "Sub Region": "Northern Europe",
+    "Currency": {
+        "Code": "",
+        "Name": "",
+        "Symbol": ""
+    },
+    "Languages": {
+        "Code": "",
+        "Native Name": "",
+        "Name": "",
+        "ISO": ""
+    },
+    "Dialing Code": "+44",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": ""
+}

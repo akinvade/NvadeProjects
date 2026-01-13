@@ -1,0 +1,87 @@
+{
+    "Name": "Bhutan",
+    "Capital": "Thimphu",
+    "States": {
+        "Bumthang": {
+            "Code": "33"
+        },
+        "Chhukha": {
+            "Code": "12"
+        },
+        "Dagana": {
+            "Code": "22"
+        },
+        "Gasa": {
+            "Code": "GA"
+        },
+        "Ha": {
+            "Code": "13"
+        },
+        "Lhuentse": {
+            "Code": "44"
+        },
+        "Monggar": {
+            "Code": "42"
+        },
+        "Paro": {
+            "Code": "11"
+        },
+        "Pemagatshel": {
+            "Code": "43"
+        },
+        "Punakha": {
+            "Code": "23"
+        },
+        "Samdrup Jongkha": {
+            "Code": "45"
+        },
+        "Samtse": {
+            "Code": "14"
+        },
+        "Sarpang": {
+            "Code": "31"
+        },
+        "Thimphu": {
+            "Code": "15"
+        },
+        "Trashi Yangtse": {
+            "Code": "TY"
+        },
+        "Trashigang": {
+            "Code": "41"
+        },
+        "Trongsa": {
+            "Code": "32"
+        },
+        "Tsirang": {
+            "Code": "21"
+        },
+        "Wangdue Phodrang": {
+            "Code": "24"
+        },
+        "Zhemgang": {
+            "Code": "34"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "BT",
+        "Code2": "BTN"
+    },
+    "Region": "Asia",
+    "Sub Region": "Southern Asia",
+    "Currency": {
+        "Code": "BTN",
+        "Name": "Bhutanese ngultrum",
+        "Symbol": "Nu."
+    },
+    "Languages": {
+        "Code": "dz",
+        "Native Name": "Dzongkha"
+    },
+    "Dialing Code": "+975",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/btn.svg"
+}

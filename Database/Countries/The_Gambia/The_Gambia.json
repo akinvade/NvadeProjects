@@ -1,0 +1,47 @@
+{
+    "Name": "The Gambia",
+    "Capital": "Banjul",
+    "States": {
+        "Banjul": {
+            "Code": "B"
+        },
+        "Central River": {
+            "Code": "M"
+        },
+        "Lower River": {
+            "Code": "L"
+        },
+        "North Bank": {
+            "Code": "N"
+        },
+        "Upper River": {
+            "Code": "U"
+        },
+        "Western": {
+            "Code": "W"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "GM",
+        "Code2": "GMB"
+    },
+    "Region": "Africa",
+    "Sub Region": "Western Africa",
+    "Currency": {
+        "Code": "",
+        "Name": "",
+        "Symbol": ""
+    },
+    "Languages": {
+        "Code": "",
+        "Native Name": "",
+        "Name": "",
+        "ISO": ""
+    },
+    "Dialing Code": "+220",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": ""
+}

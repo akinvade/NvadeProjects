@@ -1,0 +1,28 @@
+{
+    "Name": "French Southern and Antarctic Lands",
+    "Capital": "Port-aux-Français",
+    "States": {},
+    "ShortCodes": {
+        "Code1": "TF",
+        "Code2": "ATF"
+    },
+    "Region": "Africa",
+    "Sub Region": "Southern Africa",
+    "Currency": {
+        "Code": "",
+        "Name": "",
+        "Symbol": ""
+    },
+    "Languages": {
+        "Code": "",
+        "Native Name": "",
+        "Name": "",
+        "ISO": ""
+    },
+    "Dialing Code": "+262",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": ""
+}

@@ -1,0 +1,60 @@
+{
+    "Name": "Ethiopia",
+    "Capital": "Addis Ababa",
+    "States": {
+        "Bīnshangul Gumuz": {
+            "Code": "BE"
+        },
+        "Dirē Dawa": {
+            "Code": "DD"
+        },
+        "Gambēla Hizboch": {
+            "Code": "GA"
+        },
+        "Hārerī Hizb": {
+            "Code": "HA"
+        },
+        "Oromīya": {
+            "Code": "OR"
+        },
+        "Sumalē": {
+            "Code": "SO"
+        },
+        "Tigray": {
+            "Code": "TI"
+        },
+        "YeDebub Bihēroch Bihēreseboch na Hizboch": {
+            "Code": "SN"
+        },
+        "Ādīs Ābeba": {
+            "Code": "AA"
+        },
+        "Āfar": {
+            "Code": "AF"
+        },
+        "Āmara": {
+            "Code": "AM"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "ET",
+        "Code2": "ETH"
+    },
+    "Region": "Africa",
+    "Sub Region": "Eastern Africa",
+    "Currency": {
+        "Code": "ETB",
+        "Name": "Ethiopian birr",
+        "Symbol": "Br"
+    },
+    "Languages": {
+        "Code": "am",
+        "Native Name": "Amharic"
+    },
+    "Dialing Code": "+251",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/eth.svg"
+}

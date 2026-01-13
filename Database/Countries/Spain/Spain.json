@@ -1,0 +1,228 @@
+{
+    "Name": "Spain",
+    "Capital": "Madrid",
+    "States": {
+        "A Coruña": {
+            "Code": "C"
+        },
+        "Albacete": {
+            "Code": "AB"
+        },
+        "Alicante": {
+            "Code": "A"
+        },
+        "Almería": {
+            "Code": "AL"
+        },
+        "Asturias": {
+            "Code": "O"
+        },
+        "Badajoz": {
+            "Code": "BA"
+        },
+        "Balears": {
+            "Code": "PM"
+        },
+        "Barcelona": {
+            "Code": "B"
+        },
+        "Burgos": {
+            "Code": "BU"
+        },
+        "Cantabria": {
+            "Code": "CB"
+        },
+        "Castellón": {
+            "Code": "CS"
+        },
+        "Ciudad Real": {
+            "Code": "CR"
+        },
+        "Cuenca": {
+            "Code": "CU"
+        },
+        "Cáceres": {
+            "Code": "CC"
+        },
+        "Cádiz": {
+            "Code": "CA"
+        },
+        "Córdoba": {
+            "Code": "CO"
+        },
+        "Girona": {
+            "Code": "GI"
+        },
+        "Granada": {
+            "Code": "GR"
+        },
+        "Guadalajara": {
+            "Code": "GU"
+        },
+        "Guipúzcoa": {
+            "Code": "SS"
+        },
+        "Huelva": {
+            "Code": "H"
+        },
+        "Huesca": {
+            "Code": "HU"
+        },
+        "Jaén": {
+            "Code": "J"
+        },
+        "La Rioja": {
+            "Code": "RI"
+        },
+        "Las Palmas": {
+            "Code": "GC"
+        },
+        "León": {
+            "Code": "LE"
+        },
+        "Lleida": {
+            "Code": "L"
+        },
+        "Lugo": {
+            "Code": "LU"
+        },
+        "Madrid": {
+            "Code": "M"
+        },
+        "Murcia": {
+            "Code": "MU"
+        },
+        "Málaga": {
+            "Code": "MA"
+        },
+        "Navarra": {
+            "Code": "NA"
+        },
+        "Ourense": {
+            "Code": "OR"
+        },
+        "Palencia": {
+            "Code": "P"
+        },
+        "Pontevedra": {
+            "Code": "PO"
+        },
+        "Salamanca": {
+            "Code": "SA"
+        },
+        "Santa Cruz de Tenerife": {
+            "Code": "TF"
+        },
+        "Segovia": {
+            "Code": "SG"
+        },
+        "Sevilla": {
+            "Code": "SE"
+        },
+        "Soria": {
+            "Code": "SO"
+        },
+        "Tarragona": {
+            "Code": "T"
+        },
+        "Teruel": {
+            "Code": "TE"
+        },
+        "Toledo": {
+            "Code": "TO"
+        },
+        "Valencia": {
+            "Code": "V"
+        },
+        "Valladolid": {
+            "Code": "VA"
+        },
+        "Vizcaya": {
+            "Code": "BI"
+        },
+        "Zamora": {
+            "Code": "ZA"
+        },
+        "Zaragoza": {
+            "Code": "Z"
+        },
+        "Álava": {
+            "Code": "VI"
+        },
+        "Ávila": {
+            "Code": "AV"
+        },
+        "Ceuta": {
+            "Code": "CE"
+        },
+        "Melilla": {
+            "Code": "ML"
+        },
+        "Andalucía": {
+            "Code": "AN"
+        },
+        "Aragón": {
+            "Code": "AR"
+        },
+        "Asturias, Principado de": {
+            "Code": "AS"
+        },
+        "Canarias": {
+            "Code": "CN"
+        },
+        "Castilla y León": {
+            "Code": "CL"
+        },
+        "Castilla-La Mancha": {
+            "Code": "CM"
+        },
+        "Catalunya": {
+            "Code": "CT"
+        },
+        "Extremadura": {
+            "Code": "EX"
+        },
+        "Galicia": {
+            "Code": "GA"
+        },
+        "Illes Balears": {
+            "Code": "IB"
+        },
+        "Madrid, Comunidad de": {
+            "Code": "MD"
+        },
+        "Murcia, Región de": {
+            "Code": "MC"
+        },
+        "Navarra, Comunidad Foral de": {
+            "Code": "NC"
+        },
+        "País Vasco": {
+            "Code": "PV"
+        },
+        "Valenciana, Comunidad": {
+            "Code": "VC"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "ES",
+        "Code2": "ESP"
+    },
+    "Region": "Europe",
+    "Sub Region": "Southern Europe",
+    "Currency": {
+        "Code": "EUR",
+        "Name": "Euro",
+        "Symbol": "€"
+    },
+    "Languages": {
+        "Code": "es",
+        "Native Name": "Spanish"
+    },
+    "Dialing Code": "+34",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/esp.svg"
+}

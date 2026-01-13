@@ -1,0 +1,90 @@
+{
+    "Name": "Croatia",
+    "Capital": "Zagreb",
+    "States": {
+        "Bjelovarsko-bilogorska županija": {
+            "Code": "07"
+        },
+        "Brodsko-posavska županija": {
+            "Code": "12"
+        },
+        "Dubrovačko-neretvanska županija": {
+            "Code": "19"
+        },
+        "Grad Zagreb": {
+            "Code": "21"
+        },
+        "Istarska županija": {
+            "Code": "18"
+        },
+        "Karlovačka županija": {
+            "Code": "04"
+        },
+        "Koprivničko-križevačka županija": {
+            "Code": "06"
+        },
+        "Krapinsko-zagorska županija": {
+            "Code": "02"
+        },
+        "Ličko-senjska županija": {
+            "Code": "09"
+        },
+        "Međimurska županija": {
+            "Code": "20"
+        },
+        "Osječko-baranjska županija": {
+            "Code": "14"
+        },
+        "Požeško-slavonska županija": {
+            "Code": "11"
+        },
+        "Primorsko-goranska županija": {
+            "Code": "08"
+        },
+        "Sisačko-moslavačka županija": {
+            "Code": "03"
+        },
+        "Splitsko-dalmatinska županija": {
+            "Code": "17"
+        },
+        "Varaždinska županija": {
+            "Code": "05"
+        },
+        "Virovitičko-podravska županija": {
+            "Code": "10"
+        },
+        "Vukovarsko-srijemska županija": {
+            "Code": "16"
+        },
+        "Zadarska županija": {
+            "Code": "13"
+        },
+        "Zagrebačka županija": {
+            "Code": "01"
+        },
+        "Šibensko-kninska županija": {
+            "Code": "15"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "HR",
+        "Code2": "HRV"
+    },
+    "Region": "Europe",
+    "Sub Region": "Southern Europe",
+    "Currency": {
+        "Code": "HRK",
+        "Name": "Croatian kuna",
+        "Symbol": "kn"
+    },
+    "Languages": {
+        "Code": "hr",
+        "Native Name": "Croatian"
+    },
+    "Dialing Code": "+385",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/hrv.svg"
+}

@@ -1,0 +1,657 @@
+{
+    "Name": "Slovenia",
+    "Capital": "Ljubljana",
+    "States": {
+        "Ajdovščina": {
+            "Code": "001"
+        },
+        "Apače": {
+            "Code": "195"
+        },
+        "Beltinci": {
+            "Code": "002"
+        },
+        "Benedikt": {
+            "Code": "148"
+        },
+        "Bistrica ob Sotli": {
+            "Code": "149"
+        },
+        "Bled": {
+            "Code": "003"
+        },
+        "Bloke": {
+            "Code": "150"
+        },
+        "Bohinj": {
+            "Code": "004"
+        },
+        "Borovnica": {
+            "Code": "005"
+        },
+        "Bovec": {
+            "Code": "006"
+        },
+        "Braslovče": {
+            "Code": "151"
+        },
+        "Brda": {
+            "Code": "007"
+        },
+        "Brezovica": {
+            "Code": "008"
+        },
+        "Brežice": {
+            "Code": "009"
+        },
+        "Cankova": {
+            "Code": "152"
+        },
+        "Celje": {
+            "Code": "011"
+        },
+        "Cerklje na Gorenjskem": {
+            "Code": "012"
+        },
+        "Cerknica": {
+            "Code": "013"
+        },
+        "Cerkno": {
+            "Code": "014"
+        },
+        "Cerkvenjak": {
+            "Code": "153"
+        },
+        "Cirkulane": {
+            "Code": "196"
+        },
+        "Destrnik": {
+            "Code": "018"
+        },
+        "Divača": {
+            "Code": "019"
+        },
+        "Dobje": {
+            "Code": "154"
+        },
+        "Dobrepolje": {
+            "Code": "020"
+        },
+        "Dobrna": {
+            "Code": "155"
+        },
+        "Dobrova–Polhov Gradec": {
+            "Code": "021"
+        },
+        "Dobrovnik": {
+            "Code": "156"
+        },
+        "Dol pri Ljubljani": {
+            "Code": "022"
+        },
+        "Dolenjske Toplice": {
+            "Code": "157"
+        },
+        "Domžale": {
+            "Code": "023"
+        },
+        "Dornava": {
+            "Code": "024"
+        },
+        "Dravograd": {
+            "Code": "025"
+        },
+        "Duplek": {
+            "Code": "026"
+        },
+        "Gorenja vas–Poljane": {
+            "Code": "027"
+        },
+        "Gorišnica": {
+            "Code": "028"
+        },
+        "Gorje": {
+            "Code": "207"
+        },
+        "Gornja Radgona": {
+            "Code": "029"
+        },
+        "Gornji Grad": {
+            "Code": "030"
+        },
+        "Gornji Petrovci": {
+            "Code": "031"
+        },
+        "Grad": {
+            "Code": "158"
+        },
+        "Grosuplje": {
+            "Code": "032"
+        },
+        "Hajdina": {
+            "Code": "159"
+        },
+        "Hodoš": {
+            "Code": "161"
+        },
+        "Horjul": {
+            "Code": "162"
+        },
+        "Hoče–Slivnica": {
+            "Code": "160"
+        },
+        "Hrastnik": {
+            "Code": "034"
+        },
+        "Hrpelje-Kozina": {
+            "Code": "035"
+        },
+        "Idrija": {
+            "Code": "036"
+        },
+        "Ig": {
+            "Code": "037"
+        },
+        "Ilirska Bistrica": {
+            "Code": "038"
+        },
+        "Ivančna Gorica": {
+            "Code": "039"
+        },
+        "Izola": {
+            "Code": "040"
+        },
+        "Jesenice": {
+            "Code": "041"
+        },
+        "Jezersko": {
+            "Code": "163"
+        },
+        "Juršinci": {
+            "Code": "042"
+        },
+        "Kamnik": {
+            "Code": "043"
+        },
+        "Kanal": {
+            "Code": "044"
+        },
+        "Kidričevo": {
+            "Code": "045"
+        },
+        "Kobarid": {
+            "Code": "046"
+        },
+        "Kobilje": {
+            "Code": "047"
+        },
+        "Komen": {
+            "Code": "049"
+        },
+        "Komenda": {
+            "Code": "164"
+        },
+        "Koper": {
+            "Code": "050"
+        },
+        "Kosanjevica na Krki": {
+            "Code": "197"
+        },
+        "Kostel": {
+            "Code": "165"
+        },
+        "Kozje": {
+            "Code": "051"
+        },
+        "Kočevje": {
+            "Code": "048"
+        },
+        "Kranj": {
+            "Code": "052"
+        },
+        "Kranjska Gora": {
+            "Code": "053"
+        },
+        "Križevci": {
+            "Code": "166"
+        },
+        "Krško": {
+            "Code": "054"
+        },
+        "Kungota": {
+            "Code": "055"
+        },
+        "Kuzma": {
+            "Code": "056"
+        },
+        "Laško": {
+            "Code": "057"
+        },
+        "Lenart": {
+            "Code": "058"
+        },
+        "Lendava": {
+            "Code": "059"
+        },
+        "Litija": {
+            "Code": "060"
+        },
+        "Ljubljana": {
+            "Code": "061"
+        },
+        "Ljubno": {
+            "Code": "062"
+        },
+        "Ljutomer": {
+            "Code": "063"
+        },
+        "Log-Dragomer": {
+            "Code": "208"
+        },
+        "Logatec": {
+            "Code": "064"
+        },
+        "Lovrenc na Pohorju": {
+            "Code": "167"
+        },
+        "Loška Dolina": {
+            "Code": "065"
+        },
+        "Loški Potok": {
+            "Code": "066"
+        },
+        "Lukovica": {
+            "Code": "068"
+        },
+        "Luče": {
+            "Code": "067"
+        },
+        "Majšperk": {
+            "Code": "069"
+        },
+        "Makole": {
+            "Code": "198"
+        },
+        "Maribor": {
+            "Code": "070"
+        },
+        "Markovci": {
+            "Code": "168"
+        },
+        "Medvode": {
+            "Code": "071"
+        },
+        "Mengeš": {
+            "Code": "072"
+        },
+        "Metlika": {
+            "Code": "073"
+        },
+        "Mežica": {
+            "Code": "074"
+        },
+        "Miklavž na Dravskem Polju": {
+            "Code": "169"
+        },
+        "Miren–Kostanjevica": {
+            "Code": "075"
+        },
+        "Mirna Peč": {
+            "Code": "170"
+        },
+        "Mislinja": {
+            "Code": "076"
+        },
+        "Mokronog–Trebelno": {
+            "Code": "199"
+        },
+        "Moravske Toplice": {
+            "Code": "078"
+        },
+        "Moravče": {
+            "Code": "077"
+        },
+        "Mozirje": {
+            "Code": "079"
+        },
+        "Murska Sobota": {
+            "Code": "080"
+        },
+        "Muta": {
+            "Code": "081"
+        },
+        "Naklo": {
+            "Code": "082"
+        },
+        "Nazarje": {
+            "Code": "083"
+        },
+        "Nova Gorica": {
+            "Code": "084"
+        },
+        "Novo Mesto": {
+            "Code": "085"
+        },
+        "Odranci": {
+            "Code": "086"
+        },
+        "Oplotnica": {
+            "Code": "171"
+        },
+        "Ormož": {
+            "Code": "087"
+        },
+        "Osilnica": {
+            "Code": "088"
+        },
+        "Pesnica": {
+            "Code": "089"
+        },
+        "Piran": {
+            "Code": "090"
+        },
+        "Pivka": {
+            "Code": "091"
+        },
+        "Podlehnik": {
+            "Code": "172"
+        },
+        "Podvelka": {
+            "Code": "093"
+        },
+        "Podčetrtek": {
+            "Code": "092"
+        },
+        "Poljčane": {
+            "Code": "200"
+        },
+        "Polzela": {
+            "Code": "173"
+        },
+        "Postojna": {
+            "Code": "094"
+        },
+        "Prebold": {
+            "Code": "174"
+        },
+        "Preddvor": {
+            "Code": "095"
+        },
+        "Prevalje": {
+            "Code": "175"
+        },
+        "Ptuj": {
+            "Code": "096"
+        },
+        "Puconci": {
+            "Code": "097"
+        },
+        "Radenci": {
+            "Code": "100"
+        },
+        "Radeče": {
+            "Code": "099"
+        },
+        "Radlje ob Dravi": {
+            "Code": "101"
+        },
+        "Radovljica": {
+            "Code": "102"
+        },
+        "Ravne na Koroškem": {
+            "Code": "103"
+        },
+        "Razkrižje": {
+            "Code": "176"
+        },
+        "Rače–Fram": {
+            "Code": "098"
+        },
+        "Renče-Vogrsko": {
+            "Code": "201"
+        },
+        "Rečica ob Savinji": {
+            "Code": "209"
+        },
+        "Ribnica": {
+            "Code": "104"
+        },
+        "Ribnica na Pohorju": {
+            "Code": "177"
+        },
+        "Rogatec": {
+            "Code": "107"
+        },
+        "Rogaška Slatina": {
+            "Code": "106"
+        },
+        "Rogašovci": {
+            "Code": "105"
+        },
+        "Ruše": {
+            "Code": "108"
+        },
+        "Selnica ob Dravi": {
+            "Code": "178"
+        },
+        "Semič": {
+            "Code": "109"
+        },
+        "Sevnica": {
+            "Code": "110"
+        },
+        "Sežana": {
+            "Code": "111"
+        },
+        "Slovenj Gradec": {
+            "Code": "112"
+        },
+        "Slovenska Bistrica": {
+            "Code": "113"
+        },
+        "Slovenske Konjice": {
+            "Code": "114"
+        },
+        "Sodražica": {
+            "Code": "179"
+        },
+        "Solčava": {
+            "Code": "180"
+        },
+        "Središče ob Dravi": {
+            "Code": "202"
+        },
+        "Starše": {
+            "Code": "115"
+        },
+        "Straža": {
+            "Code": "203"
+        },
+        "Sveta Ana": {
+            "Code": "181"
+        },
+        "Sveta Trojica v Slovenskih Goricah": {
+            "Code": "204"
+        },
+        "Sveti Andraž v Slovenskih Goricah": {
+            "Code": "182"
+        },
+        "Sveti Jurij": {
+            "Code": "116"
+        },
+        "Sveti Jurij v Slovenskih Goricah": {
+            "Code": "210"
+        },
+        "Sveti Tomaž": {
+            "Code": "205"
+        },
+        "Tabor": {
+            "Code": "184"
+        },
+        "Tišina": {
+            "Code": "010"
+        },
+        "Tolmin": {
+            "Code": "128"
+        },
+        "Trbovlje": {
+            "Code": "129"
+        },
+        "Trebnje": {
+            "Code": "130"
+        },
+        "Trnovska Vas": {
+            "Code": "185"
+        },
+        "Trzin": {
+            "Code": "186"
+        },
+        "Tržič": {
+            "Code": "131"
+        },
+        "Turnišče": {
+            "Code": "132"
+        },
+        "Velenje": {
+            "Code": "133"
+        },
+        "Velika Polana": {
+            "Code": "187"
+        },
+        "Velike Lašče": {
+            "Code": "134"
+        },
+        "Veržej": {
+            "Code": "188"
+        },
+        "Videm": {
+            "Code": "135"
+        },
+        "Vipava": {
+            "Code": "136"
+        },
+        "Vitanje": {
+            "Code": "137"
+        },
+        "Vodice": {
+            "Code": "138"
+        },
+        "Vojnik": {
+            "Code": "139"
+        },
+        "Vransko": {
+            "Code": "189"
+        },
+        "Vrhnika": {
+            "Code": "140"
+        },
+        "Vuzenica": {
+            "Code": "141"
+        },
+        "Zagorje ob Savi": {
+            "Code": "142"
+        },
+        "Zavrč": {
+            "Code": "143"
+        },
+        "Zreče": {
+            "Code": "144"
+        },
+        "Črenšovci": {
+            "Code": "015"
+        },
+        "Črna na Koroškem": {
+            "Code": "016"
+        },
+        "Črnomelj": {
+            "Code": "017"
+        },
+        "Šalovci": {
+            "Code": "033"
+        },
+        "Šempeter–Vrtojba": {
+            "Code": "183"
+        },
+        "Šentilj": {
+            "Code": "118"
+        },
+        "Šentjernej": {
+            "Code": "119"
+        },
+        "Šentjur": {
+            "Code": "120"
+        },
+        "Šentrupert": {
+            "Code": "211"
+        },
+        "Šenčur": {
+            "Code": "117"
+        },
+        "Škocjan": {
+            "Code": "121"
+        },
+        "Škofja Loka": {
+            "Code": "122"
+        },
+        "Škofljica": {
+            "Code": "123"
+        },
+        "Šmarje pri Jelšah": {
+            "Code": "124"
+        },
+        "Šmarješke Toplice": {
+            "Code": "206"
+        },
+        "Šmartno ob Paki": {
+            "Code": "125"
+        },
+        "Šmartno pri Litiji": {
+            "Code": "194"
+        },
+        "Šoštanj": {
+            "Code": "126"
+        },
+        "Štore": {
+            "Code": "127"
+        },
+        "Žalec": {
+            "Code": "190"
+        },
+        "Železniki": {
+            "Code": "146"
+        },
+        "Žetale": {
+            "Code": "191"
+        },
+        "Žiri": {
+            "Code": "147"
+        },
+        "Žirovnica": {
+            "Code": "192"
+        },
+        "Žužemberk": {
+            "Code": "193"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "SI",
+        "Code2": "SVN"
+    },
+    "Region": "Europe",
+    "Sub Region": "Southern Europe",
+    "Currency": {
+        "Code": "EUR",
+        "Name": "Euro",
+        "Symbol": "€"
+    },
+    "Languages": {
+        "Code": "sl",
+        "Native Name": "Slovene"
+    },
+    "Dialing Code": "+386",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/svn.svg"
+}

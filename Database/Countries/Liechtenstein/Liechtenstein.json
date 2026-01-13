@@ -1,0 +1,60 @@
+{
+    "Name": "Liechtenstein",
+    "Capital": "Vaduz",
+    "States": {
+        "Balzers": {
+            "Code": "01"
+        },
+        "Eschen": {
+            "Code": "02"
+        },
+        "Gamprin": {
+            "Code": "03"
+        },
+        "Mauren": {
+            "Code": "04"
+        },
+        "Planken": {
+            "Code": "05"
+        },
+        "Ruggell": {
+            "Code": "06"
+        },
+        "Schaan": {
+            "Code": "07"
+        },
+        "Schellenberg": {
+            "Code": "08"
+        },
+        "Triesen": {
+            "Code": "09"
+        },
+        "Triesenberg": {
+            "Code": "10"
+        },
+        "Vaduz": {
+            "Code": "11"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "LI",
+        "Code2": "LIE"
+    },
+    "Region": "Europe",
+    "Sub Region": "Western Europe",
+    "Currency": {
+        "Code": "CHF",
+        "Name": "Swiss franc",
+        "Symbol": "Fr"
+    },
+    "Languages": {
+        "Code": "de",
+        "Native Name": "German"
+    },
+    "Dialing Code": "+423",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/lie.svg"
+}

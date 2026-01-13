@@ -1,0 +1,69 @@
+{
+    "Name": "Myanmar",
+    "Capital": "Naypyidaw",
+    "States": {
+        "Ayeyarwady": {
+            "Code": "07"
+        },
+        "Bago": {
+            "Code": "02"
+        },
+        "Chin": {
+            "Code": "14"
+        },
+        "Kachin": {
+            "Code": "11"
+        },
+        "Kayah": {
+            "Code": "12"
+        },
+        "Kayin": {
+            "Code": "13"
+        },
+        "Magway": {
+            "Code": "03"
+        },
+        "Mandalay": {
+            "Code": "04"
+        },
+        "Mon": {
+            "Code": "15"
+        },
+        "Rakhine": {
+            "Code": "16"
+        },
+        "Sagaing": {
+            "Code": "01"
+        },
+        "Shan": {
+            "Code": "17"
+        },
+        "Tanintharyi": {
+            "Code": "05"
+        },
+        "Yangon": {
+            "Code": "06"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "MM",
+        "Code2": "MMR"
+    },
+    "Region": "Asia",
+    "Sub Region": "South-Eastern Asia",
+    "Currency": {
+        "Code": "MMK",
+        "Name": "Burmese kyat",
+        "Symbol": "Ks"
+    },
+    "Languages": {
+        "Code": "my",
+        "Native Name": "Burmese"
+    },
+    "Dialing Code": "+95",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/mmr.svg"
+}

@@ -1,0 +1,26 @@
+{
+    "Name": "Réunion",
+    "Capital": "Saint-Denis",
+    "States": {},
+    "ShortCodes": {
+        "Code1": "RE",
+        "Code2": "REU"
+    },
+    "Region": "Africa",
+    "Sub Region": "Eastern Africa",
+    "Currency": {
+        "Code": "EUR",
+        "Name": "Euro",
+        "Symbol": "€"
+    },
+    "Languages": {
+        "Code": "fr",
+        "Native Name": "French"
+    },
+    "Dialing Code": "+262",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/reu.svg"
+}

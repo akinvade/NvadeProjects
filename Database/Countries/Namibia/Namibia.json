@@ -1,0 +1,69 @@
+{
+    "Name": "Namibia",
+    "Capital": "Windhoek",
+    "States": {
+        "Erongo": {
+            "Code": "ER"
+        },
+        "Hardap": {
+            "Code": "HA"
+        },
+        "Karas": {
+            "Code": "KA"
+        },
+        "Kavango East": {
+            "Code": "KE"
+        },
+        "Kavango West": {
+            "Code": "KW"
+        },
+        "Khomas": {
+            "Code": "KH"
+        },
+        "Kunene": {
+            "Code": "KU"
+        },
+        "Ohangwena": {
+            "Code": "OW"
+        },
+        "Omaheke": {
+            "Code": "OH"
+        },
+        "Omusati": {
+            "Code": "OS"
+        },
+        "Oshana": {
+            "Code": "ON"
+        },
+        "Oshikoto": {
+            "Code": "OT"
+        },
+        "Otjozondjupa": {
+            "Code": "OD"
+        },
+        "Zambezi": {
+            "Code": "CA"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "NA",
+        "Code2": "NAM"
+    },
+    "Region": "Africa",
+    "Sub Region": "Southern Africa",
+    "Currency": {
+        "Code": "NAD",
+        "Name": "Namibian dollar",
+        "Symbol": "$"
+    },
+    "Languages": {
+        "Code": "en",
+        "Native Name": "English"
+    },
+    "Dialing Code": "+264",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/nam.svg"
+}

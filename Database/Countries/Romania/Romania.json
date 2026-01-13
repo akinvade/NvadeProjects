@@ -1,0 +1,153 @@
+{
+    "Name": "Romania",
+    "Capital": "Bucharest",
+    "States": {
+        "Alba": {
+            "Code": "AB"
+        },
+        "Arad": {
+            "Code": "AR"
+        },
+        "Argeș": {
+            "Code": "AG"
+        },
+        "Bacău": {
+            "Code": "BC"
+        },
+        "Bihor": {
+            "Code": "BH"
+        },
+        "Bistrița-Năsăud": {
+            "Code": "BN"
+        },
+        "Botoșani": {
+            "Code": "BT"
+        },
+        "Brașov": {
+            "Code": "BV"
+        },
+        "Brăila": {
+            "Code": "BR"
+        },
+        "București": {
+            "Code": "B"
+        },
+        "Buzău": {
+            "Code": "BZ"
+        },
+        "Caraș-Severin": {
+            "Code": "CS"
+        },
+        "Cluj": {
+            "Code": "CJ"
+        },
+        "Constanța": {
+            "Code": "CT"
+        },
+        "Covasna": {
+            "Code": "CV"
+        },
+        "Călărași": {
+            "Code": "CL"
+        },
+        "Dolj": {
+            "Code": "DJ"
+        },
+        "Dâmbovița": {
+            "Code": "DB"
+        },
+        "Galați": {
+            "Code": "GL"
+        },
+        "Giurgiu": {
+            "Code": "GR"
+        },
+        "Gorj": {
+            "Code": "GJ"
+        },
+        "Harghita": {
+            "Code": "HR"
+        },
+        "Hunedoara": {
+            "Code": "HD"
+        },
+        "Ialomița": {
+            "Code": "IL"
+        },
+        "Iași": {
+            "Code": "IS"
+        },
+        "Ilfov": {
+            "Code": "IF"
+        },
+        "Maramureș": {
+            "Code": "MM"
+        },
+        "Mehedinți": {
+            "Code": "MH"
+        },
+        "Mureș": {
+            "Code": "MS"
+        },
+        "Neamț": {
+            "Code": "NT"
+        },
+        "Olt": {
+            "Code": "OT"
+        },
+        "Prahova": {
+            "Code": "PH"
+        },
+        "Satu Mare": {
+            "Code": "SM"
+        },
+        "Sibiu": {
+            "Code": "SB"
+        },
+        "Suceava": {
+            "Code": "SV"
+        },
+        "Sălaj": {
+            "Code": "SJ"
+        },
+        "Teleorman": {
+            "Code": "TR"
+        },
+        "Timiș": {
+            "Code": "TM"
+        },
+        "Tulcea": {
+            "Code": "TL"
+        },
+        "Vaslui": {
+            "Code": "VS"
+        },
+        "Vrancea": {
+            "Code": "VN"
+        },
+        "Vâlcea": {
+            "Code": "VL"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "RO",
+        "Code2": "ROU"
+    },
+    "Region": "Europe",
+    "Sub Region": "Eastern Europe",
+    "Currency": {
+        "Code": "RON",
+        "Name": "Romanian leu",
+        "Symbol": "lei"
+    },
+    "Languages": {
+        "Code": "ro",
+        "Native Name": "Romanian"
+    },
+    "Dialing Code": "+40",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/rou.svg"
+}

@@ -1,0 +1,122 @@
+{
+    "Name": "Iran",
+    "Capital": "Tehran",
+    "States": {
+        "Alborz": {
+            "Code": "32"
+        },
+        "Ardabīl": {
+            "Code": "03"
+        },
+        "Būshehr": {
+            "Code": "06"
+        },
+        "Chahār Maḩāll va Bakhtīārī": {
+            "Code": "08"
+        },
+        "Eşfahān": {
+            "Code": "04"
+        },
+        "Fārs": {
+            "Code": "14"
+        },
+        "Golestān": {
+            "Code": "27"
+        },
+        "Gīlān": {
+            "Code": "19"
+        },
+        "Hamadān": {
+            "Code": "24"
+        },
+        "Hormozgān": {
+            "Code": "23"
+        },
+        "Kermān": {
+            "Code": "15"
+        },
+        "Kermānshāh": {
+            "Code": "17"
+        },
+        "Khorāsān-e Janūbī": {
+            "Code": "29"
+        },
+        "Khorāsān-e Razavī": {
+            "Code": "30"
+        },
+        "Khorāsān-e Shemālī": {
+            "Code": "31"
+        },
+        "Khūzestān": {
+            "Code": "10"
+        },
+        "Kohgīlūyeh va Būyer Aḩmad": {
+            "Code": "18"
+        },
+        "Kordestān": {
+            "Code": "16"
+        },
+        "Lorestān": {
+            "Code": "20"
+        },
+        "Markazī": {
+            "Code": "22"
+        },
+        "Māzandarān": {
+            "Code": "21"
+        },
+        "Qazvīn": {
+            "Code": "28"
+        },
+        "Qom": {
+            "Code": "26"
+        },
+        "Semnān": {
+            "Code": "12"
+        },
+        "Sīstān va Balūchestān": {
+            "Code": "13"
+        },
+        "Tehrān": {
+            "Code": "07"
+        },
+        "Yazd": {
+            "Code": "25"
+        },
+        "Zanjān": {
+            "Code": "11"
+        },
+        "Āz̄arbāyjān-e Gharbī": {
+            "Code": "02"
+        },
+        "Āz̄arbāyjān-e Sharqī": {
+            "Code": "01"
+        },
+        "Īlām": {
+            "Code": "05"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "IR",
+        "Code2": "IRN"
+    },
+    "Region": "Asia",
+    "Sub Region": "Southern Asia",
+    "Currency": {
+        "Code": "",
+        "Name": "",
+        "Symbol": ""
+    },
+    "Languages": {
+        "Code": "",
+        "Native Name": "",
+        "Name": "",
+        "ISO": ""
+    },
+    "Dialing Code": "+98",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": ""
+}

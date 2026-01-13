@@ -1,0 +1,111 @@
+{
+    "Name": "Bulgaria",
+    "Capital": "Sofia",
+    "States": {
+        "Blagoevgrad": {
+            "Code": "01"
+        },
+        "Burgas": {
+            "Code": "02"
+        },
+        "Dobrich": {
+            "Code": "08"
+        },
+        "Gabrovo": {
+            "Code": "07"
+        },
+        "Haskovo": {
+            "Code": "26"
+        },
+        "Kardzhali": {
+            "Code": "09"
+        },
+        "Kyustendil": {
+            "Code": "10"
+        },
+        "Lovech": {
+            "Code": "11"
+        },
+        "Montana": {
+            "Code": "12"
+        },
+        "Pazardzhik": {
+            "Code": "13"
+        },
+        "Pernik": {
+            "Code": "14"
+        },
+        "Pleven": {
+            "Code": "15"
+        },
+        "Plovdiv": {
+            "Code": "16"
+        },
+        "Razgrad": {
+            "Code": "17"
+        },
+        "Ruse": {
+            "Code": "18"
+        },
+        "Shumen": {
+            "Code": "27"
+        },
+        "Silistra": {
+            "Code": "19"
+        },
+        "Sliven": {
+            "Code": "20"
+        },
+        "Smolyan": {
+            "Code": "21"
+        },
+        "Sofia": {
+            "Code": "23"
+        },
+        "Sofia-Grad": {
+            "Code": "22"
+        },
+        "Stara Zagora": {
+            "Code": "24"
+        },
+        "Targovishte": {
+            "Code": "25"
+        },
+        "Varna": {
+            "Code": "03"
+        },
+        "Veliko Tarnovo": {
+            "Code": "04"
+        },
+        "Vidin": {
+            "Code": "05"
+        },
+        "Vratsa": {
+            "Code": "06"
+        },
+        "Yambol": {
+            "Code": "28"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "BG",
+        "Code2": "BGR"
+    },
+    "Region": "Europe",
+    "Sub Region": "Eastern Europe",
+    "Currency": {
+        "Code": "BGN",
+        "Name": "Bulgarian lev",
+        "Symbol": "лв"
+    },
+    "Languages": {
+        "Code": "bg",
+        "Native Name": "Bulgarian"
+    },
+    "Dialing Code": "+359",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/bgr.svg"
+}

@@ -1,0 +1,28 @@
+{
+    "Name": "Isle of Man",
+    "Capital": "Douglas",
+    "States": {},
+    "ShortCodes": {
+        "Code1": "IM",
+        "Code2": "IMN"
+    },
+    "Region": "Europe",
+    "Sub Region": "Northern Europe",
+    "Currency": {
+        "Code": "",
+        "Name": "",
+        "Symbol": ""
+    },
+    "Languages": {
+        "Code": "",
+        "Native Name": "",
+        "Name": "",
+        "ISO": ""
+    },
+    "Dialing Code": "+44-1624",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": ""
+}

@@ -1,0 +1,12 @@
+{
+    "Images": {
+        "Remove.bg": {
+           "website": "",
+            "ApiKey": "VwEebWRBD4VtMnjRsnkUV8iK",
+            "Purpose": "Removes the background from an image"
+        }
+    },
+    "Videos": {},
+    "Document": {},
+    "Files": {}
+}

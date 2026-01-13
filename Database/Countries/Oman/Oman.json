@@ -1,0 +1,54 @@
+{
+    "Name": "Oman",
+    "Capital": "Muscat",
+    "States": {
+        "Ad Dākhilīyah": {
+            "Code": "DA"
+        },
+        "Al Buraymī": {
+            "Code": "BU"
+        },
+        "Al Bāţinah": {
+            "Code": "BA"
+        },
+        "Al Wusţá": {
+            "Code": "WU"
+        },
+        "Ash Sharqīyah": {
+            "Code": "SH"
+        },
+        "Az̧ Z̧āhirah": {
+            "Code": "ZA"
+        },
+        "Masqaţ": {
+            "Code": "MA"
+        },
+        "Musandam": {
+            "Code": "MU"
+        },
+        "Z̧ufār": {
+            "Code": "ZU"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "OM",
+        "Code2": "OMN"
+    },
+    "Region": "Asia",
+    "Sub Region": "Western Asia",
+    "Currency": {
+        "Code": "OMR",
+        "Name": "Omani rial",
+        "Symbol": "ر.ع."
+    },
+    "Languages": {
+        "Code": "ar",
+        "Native Name": "Arabic"
+    },
+    "Dialing Code": "+968",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/omn.svg"
+}

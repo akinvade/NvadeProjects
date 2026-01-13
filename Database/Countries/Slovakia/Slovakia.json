@@ -1,0 +1,51 @@
+{
+    "Name": "Slovakia",
+    "Capital": "Bratislava",
+    "States": {
+        "Banskobystrický kraj": {
+            "Code": "BC"
+        },
+        "Bratislavský kraj": {
+            "Code": "BL"
+        },
+        "Košický kraj": {
+            "Code": "KI"
+        },
+        "Nitriansky kraj": {
+            "Code": "NI"
+        },
+        "Prešovský kraj": {
+            "Code": "PV"
+        },
+        "Trenčiansky kraj": {
+            "Code": "TC"
+        },
+        "Trnavský kraj": {
+            "Code": "TA"
+        },
+        "Žilinský kraj": {
+            "Code": "ZI"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "SK",
+        "Code2": "SVK"
+    },
+    "Region": "Europe",
+    "Sub Region": "Eastern Europe",
+    "Currency": {
+        "Code": "EUR",
+        "Name": "Euro",
+        "Symbol": "€"
+    },
+    "Languages": {
+        "Code": "sk",
+        "Native Name": "Slovak"
+    },
+    "Dialing Code": "+421",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/svk.svg"
+}

@@ -1,0 +1,56 @@
+{
+    "Name": "United States Minor Outlying Islands",
+    "Capital": "",
+    "States": {
+        "Baker Island": {
+            "Code": "81"
+        },
+        "Howland Island": {
+            "Code": "84"
+        },
+        "Jarvis Island": {
+            "Code": "86"
+        },
+        "Johnston Atoll": {
+            "Code": "67"
+        },
+        "Kingman Reef": {
+            "Code": "89"
+        },
+        "Midway Islands": {
+            "Code": "71"
+        },
+        "Navassa Island": {
+            "Code": "76"
+        },
+        "Palmyra Atoll": {
+            "Code": "95"
+        },
+        "Wake Island": {
+            "Code": "79"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "UM",
+        "Code2": "UMI"
+    },
+    "Region": "Americas",
+    "Sub Region": "Northern America",
+    "Currency": {
+        "Code": "",
+        "Name": "",
+        "Symbol": ""
+    },
+    "Languages": {
+        "Code": "",
+        "Native Name": "",
+        "Name": "",
+        "ISO": ""
+    },
+    "Dialing Code": "+1",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": ""
+}

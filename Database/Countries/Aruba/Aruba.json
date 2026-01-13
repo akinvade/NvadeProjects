@@ -1,0 +1,26 @@
+{
+    "Name": "Aruba",
+    "Capital": "Oranjestad",
+    "States": {},
+    "ShortCodes": {
+        "Code1": "AW",
+        "Code2": "ABW"
+    },
+    "Region": "Americas",
+    "Sub Region": "Caribbean",
+    "Currency": {
+        "Code": "AWG",
+        "Name": "Aruban florin",
+        "Symbol": "ƒ"
+    },
+    "Languages": {
+        "Code": "nl",
+        "Native Name": "Dutch"
+    },
+    "Dialing Code": "+297",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/abw.svg"
+}

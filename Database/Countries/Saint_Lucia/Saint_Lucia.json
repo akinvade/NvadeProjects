@@ -1,0 +1,60 @@
+{
+    "Name": "Saint Lucia",
+    "Capital": "Castries",
+    "States": {
+        "Anse la Raye": {
+            "Code": "01"
+        },
+        "Castries": {
+            "Code": "02"
+        },
+        "Choiseul": {
+            "Code": "03"
+        },
+        "Dauphin": {
+            "Code": "04"
+        },
+        "Dennery": {
+            "Code": "05"
+        },
+        "Gros Islet": {
+            "Code": "06"
+        },
+        "Laborie": {
+            "Code": "07"
+        },
+        "Micoud": {
+            "Code": "08"
+        },
+        "Praslin": {
+            "Code": "09"
+        },
+        "Soufrière": {
+            "Code": "10"
+        },
+        "Vieux Fort": {
+            "Code": "11"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "LC",
+        "Code2": "LCA"
+    },
+    "Region": "Americas",
+    "Sub Region": "Caribbean",
+    "Currency": {
+        "Code": "XCD",
+        "Name": "East Caribbean dollar",
+        "Symbol": "$"
+    },
+    "Languages": {
+        "Code": "en",
+        "Native Name": "English"
+    },
+    "Dialing Code": "+1",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/lca.svg"
+}

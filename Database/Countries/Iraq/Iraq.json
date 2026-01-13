@@ -1,0 +1,81 @@
+{
+    "Name": "Iraq",
+    "Capital": "Baghdad",
+    "States": {
+        "Al Anbār": {
+            "Code": "AN"
+        },
+        "Al Başrah": {
+            "Code": "BA"
+        },
+        "Al Muthanná": {
+            "Code": "MU"
+        },
+        "Al Qādisīyah": {
+            "Code": "QA"
+        },
+        "An Najaf": {
+            "Code": "NA"
+        },
+        "Arbīl": {
+            "Code": "AR"
+        },
+        "As Sulaymānīyah": {
+            "Code": "SU"
+        },
+        "At Ta'mīm": {
+            "Code": "TS"
+        },
+        "Baghdād": {
+            "Code": "BG"
+        },
+        "Bābil": {
+            "Code": "BB"
+        },
+        "Dahūk": {
+            "Code": "DA"
+        },
+        "Dhī Qār": {
+            "Code": "DQ"
+        },
+        "Diyālá": {
+            "Code": "DI"
+        },
+        "Karbalā'": {
+            "Code": "KA"
+        },
+        "Maysān": {
+            "Code": "MA"
+        },
+        "Nīnawá": {
+            "Code": "NI"
+        },
+        "Wāsiţ": {
+            "Code": "WA"
+        },
+        "Şalāḩ ad Dīn": {
+            "Code": "SD"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "IQ",
+        "Code2": "IRQ"
+    },
+    "Region": "Asia",
+    "Sub Region": "Western Asia",
+    "Currency": {
+        "Code": "IQD",
+        "Name": "Iraqi dinar",
+        "Symbol": "ع.د"
+    },
+    "Languages": {
+        "Code": "ar",
+        "Native Name": "Arabic"
+    },
+    "Dialing Code": "+964",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/irq.svg"
+}

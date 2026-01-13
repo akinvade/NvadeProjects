@@ -1,0 +1,86 @@
+{
+    "Name": "Ivory Coast",
+    "Capital": "Yamoussoukro",
+    "States": {
+        "18 Montagnes": {
+            "Code": "06"
+        },
+        "Agnébi": {
+            "Code": "16"
+        },
+        "Bafing": {
+            "Code": "17"
+        },
+        "Bas-Sassandra": {
+            "Code": "09"
+        },
+        "Denguélé": {
+            "Code": "10"
+        },
+        "Fromager": {
+            "Code": "18"
+        },
+        "Haut-Sassandra": {
+            "Code": "02"
+        },
+        "Lacs": {
+            "Code": "07"
+        },
+        "Lagunes": {
+            "Code": "01"
+        },
+        "Marahoué": {
+            "Code": "12"
+        },
+        "Moyen-Cavally": {
+            "Code": "19"
+        },
+        "Moyen-Comoé": {
+            "Code": "05"
+        },
+        "Nzi-Comoé": {
+            "Code": "11"
+        },
+        "Savanes": {
+            "Code": "03"
+        },
+        "Sud-Bandama": {
+            "Code": "15"
+        },
+        "Sud-Comoé": {
+            "Code": "13"
+        },
+        "Vallée du Bandama": {
+            "Code": "04"
+        },
+        "Worodougou": {
+            "Code": "14"
+        },
+        "Zanzan": {
+            "Code": "08"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "CI",
+        "Code2": "CIV"
+    },
+    "Region": "Africa",
+    "Sub Region": "Western Africa",
+    "Currency": {
+        "Code": "",
+        "Name": "",
+        "Symbol": ""
+    },
+    "Languages": {
+        "Code": "",
+        "Native Name": "",
+        "Name": "",
+        "ISO": ""
+    },
+    "Dialing Code": "+225",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": ""
+}

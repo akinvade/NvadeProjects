@@ -1,0 +1,26 @@
+{
+    "Name": "Saint Barthélemy",
+    "Capital": "Gustavia",
+    "States": {},
+    "ShortCodes": {
+        "Code1": "BL",
+        "Code2": "BLM"
+    },
+    "Region": "Americas",
+    "Sub Region": "Caribbean",
+    "Currency": {
+        "Code": "EUR",
+        "Name": "Euro",
+        "Symbol": "€"
+    },
+    "Languages": {
+        "Code": "fr",
+        "Native Name": "French"
+    },
+    "Dialing Code": "+590",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/blm.svg"
+}

@@ -1,0 +1,51 @@
+{
+    "Name": "Tuvalu",
+    "Capital": "Funafuti",
+    "States": {
+        "Funafuti": {
+            "Code": "FUN"
+        },
+        "Nanumanga": {
+            "Code": "NMG"
+        },
+        "Nanumea": {
+            "Code": "NMA"
+        },
+        "Niutao": {
+            "Code": "NIT"
+        },
+        "Nui": {
+            "Code": "NUI"
+        },
+        "Nukufetau": {
+            "Code": "NKF"
+        },
+        "Nukulaelae": {
+            "Code": "NKL"
+        },
+        "Vaitupu": {
+            "Code": "VAI"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "TV",
+        "Code2": "TUV"
+    },
+    "Region": "Oceania",
+    "Sub Region": "Polynesia",
+    "Currency": {
+        "Code": "AUD",
+        "Name": "Australian dollar",
+        "Symbol": "$"
+    },
+    "Languages": {
+        "Code": "en",
+        "Native Name": "English"
+    },
+    "Dialing Code": "+688",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/tuv.svg"
+}

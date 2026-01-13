@@ -1,0 +1,28 @@
+{
+    "Name": "South Georgia",
+    "Capital": "King Edward Point",
+    "States": {},
+    "ShortCodes": {
+        "Code1": "GS",
+        "Code2": "SGS"
+    },
+    "Region": "Americas",
+    "Sub Region": "South America",
+    "Currency": {
+        "Code": "",
+        "Name": "",
+        "Symbol": ""
+    },
+    "Languages": {
+        "Code": "",
+        "Native Name": "",
+        "Name": "",
+        "ISO": ""
+    },
+    "Dialing Code": "+500",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": ""
+}

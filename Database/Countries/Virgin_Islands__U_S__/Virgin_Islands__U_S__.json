@@ -1,0 +1,26 @@
+{
+    "Name": "Virgin Islands (U.S.)",
+    "Capital": "Charlotte Amalie",
+    "States": {},
+    "ShortCodes": {
+        "Code1": "VI",
+        "Code2": "VIR"
+    },
+    "Region": "Americas",
+    "Sub Region": "Caribbean",
+    "Currency": {
+        "Code": "USD",
+        "Name": "United States dollar",
+        "Symbol": "$"
+    },
+    "Languages": {
+        "Code": "en",
+        "Native Name": "English"
+    },
+    "Dialing Code": "+1",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/vir.svg"
+}

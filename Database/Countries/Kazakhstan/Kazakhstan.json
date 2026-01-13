@@ -1,0 +1,75 @@
+{
+    "Name": "Kazakhstan",
+    "Capital": "Astana",
+    "States": {
+        "Almaty": {
+            "Code": "ALA"
+        },
+        "Almaty oblysy": {
+            "Code": "ALM"
+        },
+        "Aqmola oblysy": {
+            "Code": "AKM"
+        },
+        "Aqtöbe oblysy": {
+            "Code": "AKT"
+        },
+        "Astana": {
+            "Code": "AST"
+        },
+        "Atyraū oblysy": {
+            "Code": "ATY"
+        },
+        "Batys Qazaqstan oblysy": {
+            "Code": "ZAP"
+        },
+        "Mangghystaū oblysy": {
+            "Code": "MAN"
+        },
+        "Ongtüstik Qazaqstan oblysy": {
+            "Code": "YUZ"
+        },
+        "Pavlodar oblysy": {
+            "Code": "PAV"
+        },
+        "Qaraghandy oblysy": {
+            "Code": "KAR"
+        },
+        "Qostanay oblysy": {
+            "Code": "KUS"
+        },
+        "Qyzylorda oblysy": {
+            "Code": "KZY"
+        },
+        "Shyghys Qazaqstan oblysy": {
+            "Code": "VOS"
+        },
+        "Soltüstik Qazaqstan oblysy": {
+            "Code": "SEV"
+        },
+        "Zhambyl oblysy": {
+            "Code": "ZHA"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "KZ",
+        "Code2": "KAZ"
+    },
+    "Region": "Asia",
+    "Sub Region": "Central Asia",
+    "Currency": {
+        "Code": "KZT",
+        "Name": "Kazakhstani tenge",
+        "Symbol": null
+    },
+    "Languages": {
+        "Code": "kk",
+        "Native Name": "Kazakh"
+    },
+    "Dialing Code": "+7",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/kaz.svg"
+}

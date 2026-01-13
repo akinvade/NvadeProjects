@@ -1,0 +1,36 @@
+{
+    "Name": "Kiribati",
+    "Capital": "South Tarawa",
+    "States": {
+        "Gilbert Islands": {
+            "Code": "G"
+        },
+        "Line Islands": {
+            "Code": "L"
+        },
+        "Phoenix Islands": {
+            "Code": "P"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "KI",
+        "Code2": "KIR"
+    },
+    "Region": "Oceania",
+    "Sub Region": "Micronesia",
+    "Currency": {
+        "Code": "AUD",
+        "Name": "Australian dollar",
+        "Symbol": "$"
+    },
+    "Languages": {
+        "Code": "en",
+        "Native Name": "English"
+    },
+    "Dialing Code": "+686",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/kir.svg"
+}

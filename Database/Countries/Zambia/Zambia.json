@@ -1,0 +1,54 @@
+{
+    "Name": "Zambia",
+    "Capital": "Lusaka",
+    "States": {
+        "Central": {
+            "Code": "02"
+        },
+        "Copperbelt": {
+            "Code": "08"
+        },
+        "Eastern": {
+            "Code": "03"
+        },
+        "Luapula": {
+            "Code": "04"
+        },
+        "Lusaka": {
+            "Code": "09"
+        },
+        "North-Western": {
+            "Code": "06"
+        },
+        "Northern": {
+            "Code": "05"
+        },
+        "Southern": {
+            "Code": "07"
+        },
+        "Western": {
+            "Code": "01"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "ZM",
+        "Code2": "ZMB"
+    },
+    "Region": "Africa",
+    "Sub Region": "Eastern Africa",
+    "Currency": {
+        "Code": "ZMW",
+        "Name": "Zambian kwacha",
+        "Symbol": "ZK"
+    },
+    "Languages": {
+        "Code": "en",
+        "Native Name": "English"
+    },
+    "Dialing Code": "+260",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/zmb.svg"
+}

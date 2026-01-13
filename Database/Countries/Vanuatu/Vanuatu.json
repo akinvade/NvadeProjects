@@ -1,0 +1,45 @@
+{
+    "Name": "Vanuatu",
+    "Capital": "Port Vila",
+    "States": {
+        "Malampa": {
+            "Code": "MAP"
+        },
+        "Pénama": {
+            "Code": "PAM"
+        },
+        "Sanma": {
+            "Code": "SAM"
+        },
+        "Shéfa": {
+            "Code": "SEE"
+        },
+        "Taféa": {
+            "Code": "TAE"
+        },
+        "Torba": {
+            "Code": "TOB"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "VU",
+        "Code2": "VUT"
+    },
+    "Region": "Oceania",
+    "Sub Region": "Melanesia",
+    "Currency": {
+        "Code": "VUV",
+        "Name": "Vanuatu vatu",
+        "Symbol": "Vt"
+    },
+    "Languages": {
+        "Code": "en",
+        "Native Name": "English"
+    },
+    "Dialing Code": "+678",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/vut.svg"
+}

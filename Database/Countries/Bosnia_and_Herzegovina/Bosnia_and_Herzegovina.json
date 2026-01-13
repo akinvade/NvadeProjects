@@ -1,0 +1,36 @@
+{
+    "Name": "Bosnia and Herzegovina",
+    "Capital": "Sarajevo",
+    "States": {
+        "Brčko distrikt": {
+            "Code": "BRC"
+        },
+        "Federacija Bosna i Hercegovina": {
+            "Code": "BIH"
+        },
+        "Republika Srpska": {
+            "Code": "SRP"
+        }
+    },
+    "ShortCodes": {
+        "Code1": "BA",
+        "Code2": "BIH"
+    },
+    "Region": "Europe",
+    "Sub Region": "Southern Europe",
+    "Currency": {
+        "Code": "BAM",
+        "Name": "Bosnia and Herzegovina convertible mark",
+        "Symbol": null
+    },
+    "Languages": {
+        "Code": "bs",
+        "Native Name": "Bosnian"
+    },
+    "Dialing Code": "+387",
+    "Population": 0,
+    "Area": 0,
+    "Borders": [],
+    "Timezones": [],
+    "Flag": "https://restcountries.eu/data/bih.svg"
+}
