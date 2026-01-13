@@ -1,24 +1,21 @@
 @echo off
-echo [1/6] Initializing Git...
-:: Calling 'git' directly here now works because the file is named 'upload.bat'
-git init
+echo --- CHECKING STATUS ---
+git status
+pause
 
-echo [2/6] Adding files...
+echo --- ADDING EVERYTHING ---
 git add .
+pause
 
-echo [3/6] Committing...
-git commit -m "Initial commit"
+echo --- COMMITTING ---
+git commit -m "Manual update"
+pause
 
-echo [4/6] Setting branch...
-git branch -M main
-
-echo [5/6] Adding remote...
-:: We use 'set-url' just in case you've already added it once
-git remote add origin https://github.com/akinvade/NvadeProjects.git 2>nul
-git remote set-url origin https://github.com/akinvade/NvadeProjects.git
-
-echo [6/6] Pushing to GitHub...
+echo --- PUSHING ---
 git push -u origin main
-
-echo Done!
+if %errorlevel% neq 0 (
+    echo.
+    echo ❌ PUSH FAILED! Check the error message above.
+    echo Likely: Authentication error or File too large.
+)
 pause
